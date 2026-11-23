@@ -6,3 +6,9 @@ html{scroll-padding-top:0}body{padding-bottom:0}.review-bar{position:static;disp
 
 /* 19/11/2026: giữ số nhóm sát biểu tượng mở/đóng */
 .cap-block summary:has(.group-count):after{margin-left:16px}
+
+/* 24/11/2026: buổi đã có lịch, đang nhận đăng ký */
+.event-state.is-open{color:#0b5f68;background:#e6f4f1;border-color:#b9ddd5}
+.event-cta{display:flex;flex-wrap:wrap;align-items:center;gap:14px 22px;margin-top:18px}
+.events-summary-note{font-size:13px;color:var(--muted);font-weight:400}
+.event-cta .btn span[aria-hidden]{margin-left:6px}

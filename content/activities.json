@@ -23,57 +23,62 @@
       "proposedWindow": "Tháng 12/2026",
       "year": 2026,
       "month": 12,
-      "description": "Cùng nhìn công việc phía sau tên nghề, đối chiếu nền tảng ngành học và lập câu hỏi để tìm hiểu chương trình, trường.",
+      "description": "Buổi chia sẻ cùng các gia đình lớp 12 gỡ rối bốn câu hỏi chọn trường – chọn ngành – xin việc – ra làm gì, theo thứ tự hiểu nghề trước, rồi mới chọn ngành, chọn trường.",
       "topics": [
         [
-          "Nhìn rõ hướng đang quan tâm",
-          "Phân biệt vấn đề, nhiệm vụ và kết quả của công việc; ghi lại điều còn muốn tìm hiểu."
+          "Hiểu nghề: công việc thực tế phía sau mỗi tên nghề là gì?",
+          "Khám phá bản đồ 7 khối, 25 nhóm nghề kinh tế – kinh doanh; con thực hiện bộ 7 câu hỏi ngay trong buổi."
         ],
         [
-          "Đối chiếu ngành và chương trình",
-          "Từ hướng nghề quan tâm, tìm hiểu nền tảng cần học và điều phải kiểm tra ở chương trình cụ thể."
+          "Chọn ngành: muốn theo một nghề, có những lối đi nào?",
+          "Tìm hiểu 57 ngành học kết nối với 25 nhóm nghề qua câu chuyện thực tế của sinh viên."
         ],
         [
-          "Chọn câu hỏi cần kiểm chứng",
-          "Lập danh sách câu hỏi về chương trình, điều kiện gia đình và thông tin tuyển sinh đúng năm dự tuyển."
+          "Chọn trường: cùng tên ngành, khác nhau ở đâu?",
+          "Với dữ liệu của 73 trường kinh tế – kinh doanh, biết cần xem gì, so sánh gì để lựa chọn có cơ sở."
         ]
       ],
       "intendedTakeaway": "Một danh sách câu hỏi để tiếp tục đối chiếu nghề, ngành và chương trình; một việc gia đình có thể tìm hiểu tiếp.",
-      "preparation": "Nếu muốn, hãy ghi một hướng nghề hoặc ngành đang quan tâm và một câu hỏi chưa rõ. Chưa cần gửi học bạ, điểm cá nhân hoặc hồ sơ.",
+      "preparation": "Nếu muốn, hãy ghi một hướng nghề hoặc ngành đang quan tâm và một câu hỏi chưa rõ. Không cần gửi học bạ, điểm cá nhân hoặc hồ sơ.",
       "example": "“Em quan tâm Marketing. Em muốn biết chương trình giúp em hiểu khách hàng và phân tích kết quả hoạt động đến đâu; em cần xem những học phần và trải nghiệm nào?”",
       "nextRead": [
         "/goc-nghe-nghiep/nhin-nghe-tu-cong-viec/",
         "Đọc cách tìm hiểu công việc"
       ],
       "seriesId": "chia-se-kham-pha-nghe",
-      "status": "planned",
-      "statusLabel": "Dự kiến · Đăng ký sẽ thông báo sau",
-      "scheduleConfirmed": false,
+      "status": "open",
+      "statusLabel": "Đã có lịch · Đang nhận đăng ký",
+      "scheduleConfirmed": true,
       "publicationScope": "preview-only",
-      "startsAt": null,
-      "endsAt": null,
+      "startsAt": "2026-12-06T19:30:00+07:00",
+      "endsAt": "2026-12-06T21:00:00+07:00",
       "timezone": "Asia/Ho_Chi_Minh",
-      "format": null,
-      "venue": null,
-      "speakers": [],
+      "format": "Trực tuyến qua Google Meet",
+      "venue": "Google Meet",
+      "speakers": [
+        "3 giảng viên đến từ trường đại học khối kinh tế – kinh doanh"
+      ],
       "fee": {
         "amount": 0,
         "currency": "VND",
         "label": "Miễn phí"
       },
       "registration": {
-        "enabled": false,
-        "url": null,
-        "opensAt": null,
+        "enabled": true,
+        "url": "https://docs.google.com/forms/d/e/1FAIpQLScrAZ5EfVkTC8PvUz0m3MjvwGXw5xZFhnd1yHcVsa0Xmv78WA/viewform",
+        "opensAt": "2026-11-23",
         "closesAt": null,
-        "capacity": null,
-        "confirmationMethod": null
+        "capacity": 100,
+        "confirmationMethod": "Link phòng gửi qua Zalo hoặc email trước buổi"
       },
       "parentParticipation": null,
       "recordingPromised": false,
       "resources": [],
       "recap": null,
-      "lastEditorialDate": "2026-11-16"
+      "lastEditorialDate": "2026-11-24",
+      "doorsOpen": "19:15",
+      "gift": "Bộ công cụ chọn ngành cho gia đình lớp 12, gửi sau buổi",
+      "recording": "Không ghi hình khuôn mặt người tham dự"
     },
     {
       "id": "nn-thpt1011-2027-01",
