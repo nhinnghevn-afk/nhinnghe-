@@ -1,0 +1,1192 @@
+{
+  "edition": "public-selected-v2",
+  "editorialDate": "2026-11-16",
+  "blocks": [
+    {
+      "id": 1,
+      "name": "Phân tích & Nghiên cứu"
+    },
+    {
+      "id": 2,
+      "name": "Tài chính"
+    },
+    {
+      "id": 3,
+      "name": "Kinh doanh & Tăng trưởng"
+    },
+    {
+      "id": 4,
+      "name": "Vận hành & Tổ chức"
+    },
+    {
+      "id": 5,
+      "name": "Tư vấn & Sản phẩm"
+    },
+    {
+      "id": 6,
+      "name": "Dữ liệu & Công nghệ"
+    },
+    {
+      "id": 7,
+      "name": "Dịch vụ & Trải nghiệm"
+    }
+  ],
+  "careers": [
+    {
+      "id": "01",
+      "block": 1,
+      "name": "Phân tích Chính sách & Quản lý Công",
+      "summary": "Làm rõ vấn đề công, kiểm tra bằng chứng và so sánh phương án để hỗ trợ quyết định.",
+      "roles": [
+        "Chuyên viên phân tích chính sách",
+        "Nghiên cứu viên chính sách"
+      ],
+      "foundation": "Đọc hiểu vấn đề xã hội, tìm nguồn, lập luận và thống kê cơ bản.",
+      "tryPrompt": "Đọc một thông báo công khai về quy định trong trường hoặc địa phương. Ghi vấn đề muốn giải quyết, người chịu ảnh hưởng và một điều cần hỏi thêm. Kết quả giữ lại: Một ghi chú ba ý có tên nguồn; chưa kết luận chính sách có hiệu quả. Chuẩn bị: 30–45 phút; cần một văn bản ngắn, không phải phỏng vấn cơ quan.",
+      "majorHints": [
+        {
+          "major": "7340403",
+          "reason": "Gợi mở kiến thức về quản lý công và hoạt động của khu vực công."
+        },
+        {
+          "major": "7310105",
+          "reason": "Gợi mở cách tìm hiểu vấn đề phát triển và tác động của chính sách."
+        }
+      ],
+      "source": "Nhìn Nghề biên tập chọn lọc từ Career Playbook của TS Nguyễn Thị Hoa, Phần 2, nhóm 01; việc thử là minh họa biên tập, không phải bài đánh giá năng lực.",
+      "output": "Bản phân tích ngắn nêu phương án, đánh đổi và điều còn chưa rõ.",
+      "tryTask": "Đọc một thông báo công khai về quy định trong trường hoặc địa phương. Ghi vấn đề muốn giải quyết, người chịu ảnh hưởng và một điều cần hỏi thêm.",
+      "tryResult": "Một ghi chú ba ý có tên nguồn; chưa kết luận chính sách có hiệu quả.",
+      "tryPreparation": "30–45 phút; cần một văn bản ngắn, không phải phỏng vấn cơ quan.",
+      "profileKind": "basic"
+    },
+    {
+      "id": "02",
+      "block": 1,
+      "name": "Phân tích Kinh tế Vĩ mô & Thị trường",
+      "summary": "Theo dõi diễn biến kinh tế và thị trường, phân tích ý nghĩa đối với quyết định của tổ chức.",
+      "roles": [
+        "Chuyên viên Phân tích Kinh tế (Economic Analyst)",
+        "Nhà kinh tế, Chuyên viên kinh tế nội bộ (In-house Economist)"
+      ],
+      "foundation": "Kinh tế học, đọc bảng số liệu, so sánh theo thời gian và kiểm tra nguồn.",
+      "tryPrompt": "Chọn một bản tin có số liệu giá cả, ghi chỉ số được nói đến, thời kỳ so sánh và một câu hỏi về cách diễn giải. Kết quả giữ lại: Một bảng ghi nguồn, số liệu và điều chưa biết; không tự suy ra nguyên nhân. Chuẩn bị: 30–45 phút; biết đọc bảng đơn giản, không cần dự báo thị trường.",
+      "majorHints": [
+        {
+          "major": "7310101",
+          "reason": "Gợi mở cách phân tích nền kinh tế và các quan hệ kinh tế."
+        },
+        {
+          "major": "7310107",
+          "reason": "Gợi mở cách đọc và phân tích số liệu kinh tế."
+        }
+      ],
+      "source": "Nhìn Nghề biên tập chọn lọc từ Career Playbook của TS Nguyễn Thị Hoa, Phần 2, nhóm 02; việc thử là minh họa biên tập, không phải bài đánh giá năng lực.",
+      "output": "Bản theo dõi chỉ số hoặc phân tích kịch bản kèm giả định.",
+      "tryTask": "Chọn một bản tin có số liệu giá cả, ghi chỉ số được nói đến, thời kỳ so sánh và một câu hỏi về cách diễn giải.",
+      "tryResult": "Một bảng ghi nguồn, số liệu và điều chưa biết; không tự suy ra nguyên nhân.",
+      "tryPreparation": "30–45 phút; biết đọc bảng đơn giản, không cần dự báo thị trường.",
+      "profileKind": "basic"
+    },
+    {
+      "id": "03",
+      "block": 1,
+      "name": "Nghiên cứu Thị trường & Consumer Insight",
+      "summary": "Tìm hiểu hành vi và nhu cầu khách hàng bằng nghiên cứu để hỗ trợ quyết định kinh doanh.",
+      "roles": [
+        "Chuyên viên Nghiên cứu Thị trường (Market Research Analyst)",
+        "Research Executive"
+      ],
+      "foundation": "Đặt câu hỏi, lắng nghe, ghi chép, nhận biết phạm vi mẫu và đọc dữ liệu.",
+      "tryPrompt": "Xin phép trao đổi với ba bạn về cách chọn một đồ dùng học tập. Hỏi về lần chọn gần nhất, ghi điểm giống và khác trong câu trả lời. Kết quả giữ lại: Một trang tóm tắt không ghi tên; kết quả chỉ nói về các cuộc trao đổi này. Chuẩn bị: 45–60 phút; tham gia tự nguyện, không hỏi thông tin riêng tư.",
+      "majorHints": [
+        {
+          "major": "7340115",
+          "reason": "Gợi mở kiến thức về khách hàng và hoạt động marketing."
+        },
+        {
+          "major": "7310107",
+          "reason": "Gợi mở phương pháp thu thập, xử lý và diễn giải số liệu."
+        }
+      ],
+      "source": "Nhìn Nghề biên tập chọn lọc từ Career Playbook của TS Nguyễn Thị Hoa, Phần 2, nhóm 03; việc thử là minh họa biên tập, không phải bài đánh giá năng lực.",
+      "output": "Báo cáo phát hiện về khách hàng, căn cứ và giới hạn của nghiên cứu.",
+      "tryTask": "Xin phép trao đổi với ba bạn về cách chọn một đồ dùng học tập. Hỏi về lần chọn gần nhất, ghi điểm giống và khác trong câu trả lời.",
+      "tryResult": "Một trang tóm tắt không ghi tên; kết quả chỉ nói về các cuộc trao đổi này.",
+      "tryPreparation": "45–60 phút; tham gia tự nguyện, không hỏi thông tin riêng tư.",
+      "profileKind": "basic"
+    },
+    {
+      "id": "04",
+      "block": 2,
+      "name": "Ngân hàng & Tổ chức Tín dụng",
+      "summary": "Tìm hiểu nhu cầu tài chính, xử lý dịch vụ và đánh giá rủi ro trong hoạt động ngân hàng, tín dụng.",
+      "roles": [
+        "Quản lý, Chuyên viên Quan hệ Khách hàng (Relationship Manager)",
+        "Chuyên viên Phân tích, Thẩm định Tín dụng (Credit Analyst, Credit Officer)"
+      ],
+      "foundation": "Kinh tế, kế toán, đọc thông tin tài chính, giao tiếp và kiểm tra hồ sơ.",
+      "tryPrompt": "Đọc trang giới thiệu một dịch vụ thanh toán tại nguồn chính thức. Ghi người dùng, nhu cầu và hai thông tin cần làm rõ trước khi sử dụng. Kết quả giữ lại: Bảng tóm tắt dịch vụ và câu hỏi; không mở tài khoản hoặc giao dịch. Chuẩn bị: 30 phút; chỉ đọc thông tin công khai, không gửi giấy tờ cá nhân.",
+      "majorHints": [
+        {
+          "major": "7340201",
+          "reason": "Gợi mở kiến thức về tài chính, tín dụng và hoạt động ngân hàng."
+        },
+        {
+          "major": "7340301",
+          "reason": "Gợi mở cách đọc thông tin kế toán và tình hình tài chính."
+        }
+      ],
+      "source": "Nhìn Nghề biên tập chọn lọc từ Career Playbook của TS Nguyễn Thị Hoa, Phần 2, nhóm 04; việc thử là minh họa biên tập, không phải bài đánh giá năng lực.",
+      "output": "Hồ sơ dịch vụ, phân tích tín dụng hoặc báo cáo kiểm soát tùy vị trí.",
+      "tryTask": "Đọc trang giới thiệu một dịch vụ thanh toán tại nguồn chính thức. Ghi người dùng, nhu cầu và hai thông tin cần làm rõ trước khi sử dụng.",
+      "tryResult": "Bảng tóm tắt dịch vụ và câu hỏi; không mở tài khoản hoặc giao dịch.",
+      "tryPreparation": "30 phút; chỉ đọc thông tin công khai, không gửi giấy tờ cá nhân.",
+      "profileKind": "basic"
+    },
+    {
+      "id": "05",
+      "block": 2,
+      "name": "Đầu tư & Thị trường Vốn",
+      "summary": "Nghiên cứu tài sản, phân tích rủi ro và hỗ trợ quyết định đầu tư hoặc huy động vốn.",
+      "roles": [
+        "Chuyên viên Nghiên cứu Chứng khoán",
+        "Chuyên viên Phân tích Đầu tư"
+      ],
+      "foundation": "Kế toán, tài chính, định lượng, đọc báo cáo và nhận biết rủi ro.",
+      "tryPrompt": "Chọn phần giới thiệu hoạt động của một doanh nghiệp trong báo cáo công khai. Ghi doanh nghiệp tạo doanh thu từ đâu và hai thông tin còn thiếu để hiểu hoạt động đó. Kết quả giữ lại: Một trang mô tả mô hình kinh doanh và câu hỏi; không khuyến nghị mua bán. Chuẩn bị: 45 phút; không cần vốn, không dự báo giá hoặc thử đầu tư.",
+      "majorHints": [
+        {
+          "major": "7340201",
+          "reason": "Gợi mở kiến thức tài chính và thị trường vốn."
+        },
+        {
+          "major": "7310108",
+          "reason": "Gợi mở công cụ định lượng để tiếp tục tìm hiểu phân tích tài chính."
+        }
+      ],
+      "source": "Nhìn Nghề biên tập chọn lọc từ Career Playbook của TS Nguyễn Thị Hoa, Phần 2, nhóm 05; việc thử là minh họa biên tập, không phải bài đánh giá năng lực.",
+      "output": "Báo cáo phân tích tài sản hoặc mô hình tài chính có giả định.",
+      "tryTask": "Chọn phần giới thiệu hoạt động của một doanh nghiệp trong báo cáo công khai. Ghi doanh nghiệp tạo doanh thu từ đâu và hai thông tin còn thiếu để hiểu hoạt động đó.",
+      "tryResult": "Một trang mô tả mô hình kinh doanh và câu hỏi; không khuyến nghị mua bán.",
+      "tryPreparation": "45 phút; không cần vốn, không dự báo giá hoặc thử đầu tư.",
+      "profileKind": "basic"
+    },
+    {
+      "id": "06",
+      "block": 2,
+      "name": "Kế toán & Kiểm toán",
+      "summary": "Ghi nhận, lập báo cáo tài chính hoặc kiểm tra thông tin và kiểm soát bằng bằng chứng, tùy nhánh nghề.",
+      "roles": [
+        "Kế toán viên, Chuyên viên Kế toán Tài chính (Accountant, Financial Accountant)",
+        "Chuyên viên Báo cáo Tài chính (Financial Reporting)"
+      ],
+      "foundation": "Tính cẩn thận, nguyên tắc kế toán, đối chiếu chứng từ và giải thích chênh lệch.",
+      "tryPrompt": "Dùng năm khoản thu chi giả định, lập bảng ghi nhận rồi kiểm tra tổng thu, tổng chi và số còn lại. Cố ý tạo một lỗi để tìm và sửa. Kết quả giữ lại: Bảng trước–sau cùng lời giải thích lỗi; đây là bài làm quen ghi chép, chưa phải kiểm toán. Chuẩn bị: 30–45 phút; biết cộng trừ, không dùng tài khoản hoặc chứng từ thật.",
+      "majorHints": [
+        {
+          "major": "7340301",
+          "reason": "Gợi mở việc ghi nhận và lập báo cáo thông tin kế toán."
+        },
+        {
+          "major": "7340302",
+          "reason": "Gợi mở việc kiểm tra và đánh giá thông tin tài chính."
+        }
+      ],
+      "source": "Nhìn Nghề biên tập chọn lọc từ Career Playbook của TS Nguyễn Thị Hoa, Phần 2, nhóm 06; việc thử là minh họa biên tập, không phải bài đánh giá năng lực.",
+      "output": "Sổ, báo cáo, hồ sơ kiểm tra và kết luận trong phạm vi phụ trách.",
+      "tryTask": "Dùng năm khoản thu chi giả định, lập bảng ghi nhận rồi kiểm tra tổng thu, tổng chi và số còn lại. Cố ý tạo một lỗi để tìm và sửa.",
+      "tryResult": "Bảng trước–sau cùng lời giải thích lỗi; đây là bài làm quen ghi chép, chưa phải kiểm toán.",
+      "tryPreparation": "30–45 phút; biết cộng trừ, không dùng tài khoản hoặc chứng từ thật.",
+      "profileKind": "basic"
+    },
+    {
+      "id": "07",
+      "block": 2,
+      "name": "Tài chính Doanh nghiệp & Kiểm soát",
+      "summary": "Lập kế hoạch tài chính, theo dõi dòng tiền và hỗ trợ quyết định sử dụng vốn trong doanh nghiệp.",
+      "roles": [
+        "Chuyên viên Lập kế hoạch & Phân tích Tài chính (FP&A Analyst)",
+        "Chuyên viên Kiểm soát Quản trị (Business Controller, Management Controller)"
+      ],
+      "foundation": "Kế toán, tài chính doanh nghiệp, bảng tính và phân tích giả định.",
+      "tryPrompt": "Lập ngân sách giả định cho hoạt động của lớp. Tách khoản chi, số lượng, đơn giá; thử tình huống một khoản tăng giá. Kết quả giữ lại: Một bảng ngân sách và phần giải thích thay đổi; chưa phải phương án tài chính được duyệt. Chuẩn bị: 45 phút; số liệu tự đặt và ghi rõ giả định, không thu tiền.",
+      "majorHints": [
+        {
+          "major": "7340201",
+          "reason": "Gợi mở kiến thức về quyết định tài chính và nguồn vốn."
+        },
+        {
+          "major": "7340301",
+          "reason": "Gợi mở thông tin kế toán phục vụ quản lý doanh nghiệp."
+        }
+      ],
+      "source": "Nhìn Nghề biên tập chọn lọc từ Career Playbook của TS Nguyễn Thị Hoa, Phần 2, nhóm 07; việc thử là minh họa biên tập, không phải bài đánh giá năng lực.",
+      "output": "Ngân sách, dự báo dòng tiền hoặc báo cáo chênh lệch kế hoạch–thực tế.",
+      "tryTask": "Lập ngân sách giả định cho hoạt động của lớp. Tách khoản chi, số lượng, đơn giá; thử tình huống một khoản tăng giá.",
+      "tryResult": "Một bảng ngân sách và phần giải thích thay đổi; chưa phải phương án tài chính được duyệt.",
+      "tryPreparation": "45 phút; số liệu tự đặt và ghi rõ giả định, không thu tiền.",
+      "profileKind": "basic"
+    },
+    {
+      "id": "08",
+      "block": 3,
+      "name": "Marketing & Tiếp thị số",
+      "summary": "Xác định khách hàng mục tiêu, đề xuất cách tiếp cận và theo dõi kết quả marketing.",
+      "roles": [
+        "Chuyên viên Marketing tổng hợp (Marketing Executive, Generalist)",
+        "Chuyên viên Thương hiệu (Brand Executive)"
+      ],
+      "foundation": "Hiểu khách hàng, viết thông điệp, lập kế hoạch và đọc chỉ số.",
+      "tryPrompt": "Soạn kế hoạch giới thiệu một hoạt động giả định của câu lạc bộ: ai cần biết, họ cần biết gì, dùng kênh nào và xem kết quả ra sao. Kết quả giữ lại: Một trang kế hoạch và một thông điệp mẫu; không chạy quảng cáo. Chuẩn bị: 45–60 phút; dùng thông tin giả định hoặc đã được xác nhận.",
+      "majorHints": [
+        {
+          "major": "7340115",
+          "reason": "Gợi mở kiến thức khách hàng, thị trường và hoạt động marketing."
+        },
+        {
+          "major": "7340114",
+          "reason": "Gợi mở hoạt động marketing trên các kênh số."
+        }
+      ],
+      "source": "Nhìn Nghề biên tập chọn lọc từ Career Playbook của TS Nguyễn Thị Hoa, Phần 2, nhóm 08; việc thử là minh họa biên tập, không phải bài đánh giá năng lực.",
+      "output": "Kế hoạch tiếp thị hoặc chiến dịch có mục tiêu, thông điệp và cách đo.",
+      "tryTask": "Soạn kế hoạch giới thiệu một hoạt động giả định của câu lạc bộ: ai cần biết, họ cần biết gì, dùng kênh nào và xem kết quả ra sao.",
+      "tryResult": "Một trang kế hoạch và một thông điệp mẫu; không chạy quảng cáo.",
+      "tryPreparation": "45–60 phút; dùng thông tin giả định hoặc đã được xác nhận.",
+      "profileKind": "basic"
+    },
+    {
+      "id": "09",
+      "block": 3,
+      "name": "Quan hệ Công chúng (PR) & Truyền thông Doanh nghiệp",
+      "summary": "Giúp tổ chức trao đổi thông tin chính xác, lắng nghe và xây dựng quan hệ với các bên liên quan.",
+      "roles": [
+        "Chuyên viên Quan hệ Công chúng (PR Specialist, PR Executive)",
+        "Chuyên viên Truyền thông Doanh nghiệp (Corporate Communications Specialist)"
+      ],
+      "foundation": "Viết rõ, kiểm chứng thông tin, hiểu đối tượng và nhận biết thông tin nhạy cảm.",
+      "tryPrompt": "Viết bản tin về một hoạt động đã được trường công bố, đối chiếu thời gian và nội dung tại nguồn, rồi nhờ một bạn đọc góp ý. Kết quả giữ lại: Bản tin đã sửa và danh sách nguồn; không cần đăng công khai. Chuẩn bị: 45 phút; không dùng ảnh hoặc tên cá nhân chưa được phép.",
+      "majorHints": [
+        {
+          "major": "7320108",
+          "reason": "Gợi mở quan hệ với công chúng và hoạt động truyền thông."
+        },
+        {
+          "major": "7340410",
+          "reason": "Gợi mở cách tổ chức hoạt động truyền thông gắn với công nghệ."
+        }
+      ],
+      "source": "Nhìn Nghề biên tập chọn lọc từ Career Playbook của TS Nguyễn Thị Hoa, Phần 2, nhóm 09; việc thử là minh họa biên tập, không phải bài đánh giá năng lực.",
+      "output": "Bản tin, thông cáo, bộ hỏi–đáp hoặc kế hoạch truyền thông.",
+      "tryTask": "Viết bản tin về một hoạt động đã được trường công bố, đối chiếu thời gian và nội dung tại nguồn, rồi nhờ một bạn đọc góp ý.",
+      "tryResult": "Bản tin đã sửa và danh sách nguồn; không cần đăng công khai.",
+      "tryPreparation": "45 phút; không dùng ảnh hoặc tên cá nhân chưa được phép.",
+      "profileKind": "basic"
+    },
+    {
+      "id": "10",
+      "block": 3,
+      "name": "Kinh doanh & Phát triển Thị trường",
+      "summary": "Tìm cơ hội thương mại, hiểu nhu cầu khách hàng và xây đề xuất để phát triển doanh thu, quan hệ.",
+      "roles": [
+        "Chuyên viên Kinh doanh (Sales Executive, Account Executive)",
+        "Chuyên viên Quản lý Tài khoản (Account Manager, Key Account)"
+      ],
+      "foundation": "Giao tiếp, đặt câu hỏi, hiểu sản phẩm và tính chi phí cơ bản.",
+      "tryPrompt": "Giả định câu lạc bộ cần chọn nơi in áo. So sánh hai báo giá mẫu theo giá, số lượng, thời gian và điều kiện còn thiếu. Kết quả giữ lại: Một bảng so sánh cùng câu hỏi muốn hỏi nhà cung cấp; không đặt hàng. Chuẩn bị: 45 phút; tự tạo báo giá giả định, không ký kết hay chi tiền.",
+      "majorHints": [
+        {
+          "major": "7340121",
+          "reason": "Gợi mở hoạt động thương mại và phát triển thị trường."
+        },
+        {
+          "major": "7340120",
+          "reason": "Gợi mở kinh doanh trong bối cảnh thị trường quốc tế."
+        }
+      ],
+      "source": "Nhìn Nghề biên tập chọn lọc từ Career Playbook của TS Nguyễn Thị Hoa, Phần 2, nhóm 10; việc thử là minh họa biên tập, không phải bài đánh giá năng lực.",
+      "output": "Đề xuất bán hàng, kế hoạch tiếp cận hoặc hồ sơ làm việc với khách hàng.",
+      "tryTask": "Giả định câu lạc bộ cần chọn nơi in áo. So sánh hai báo giá mẫu theo giá, số lượng, thời gian và điều kiện còn thiếu.",
+      "tryResult": "Một bảng so sánh cùng câu hỏi muốn hỏi nhà cung cấp; không đặt hàng.",
+      "tryPreparation": "45 phút; tự tạo báo giá giả định, không ký kết hay chi tiền.",
+      "profileKind": "basic"
+    },
+    {
+      "id": "11",
+      "block": 3,
+      "name": "Thương mại Điện tử & Kinh doanh Số",
+      "summary": "Vận hành hoạt động bán hàng trực tuyến, phối hợp thông tin sản phẩm, đơn hàng và dịch vụ.",
+      "roles": [
+        "chuyên viên thương mại điện tử (E-commerce Executive)",
+        "vận hành sàn (Marketplace Operations)"
+      ],
+      "foundation": "Hiểu hành trình mua hàng, viết thông tin sản phẩm, bảng tính và phối hợp xử lý đơn.",
+      "tryPrompt": "Xem trang bán một đồ dùng học tập. Ghi thông tin giúp người mua quyết định và hai điểm còn khó hiểu; đề xuất cách viết lại. Kết quả giữ lại: Một bản nhận xét và đoạn mô tả sửa thử; không cần mua hoặc lập gian hàng. Chuẩn bị: 30–45 phút; chỉ dùng thông tin công khai, không sao chép dữ liệu người mua.",
+      "majorHints": [
+        {
+          "major": "7340122",
+          "reason": "Gợi mở hoạt động kinh doanh trên môi trường trực tuyến."
+        },
+        {
+          "major": "7340114",
+          "reason": "Gợi mở cách tiếp cận khách hàng và đo hoạt động marketing số."
+        }
+      ],
+      "source": "Nhìn Nghề biên tập chọn lọc từ Career Playbook của TS Nguyễn Thị Hoa, Phần 2, nhóm 11; việc thử là minh họa biên tập, không phải bài đánh giá năng lực.",
+      "output": "Trang sản phẩm, kế hoạch vận hành gian hàng hoặc báo cáo kết quả.",
+      "tryTask": "Xem trang bán một đồ dùng học tập. Ghi thông tin giúp người mua quyết định và hai điểm còn khó hiểu; đề xuất cách viết lại.",
+      "tryResult": "Một bản nhận xét và đoạn mô tả sửa thử; không cần mua hoặc lập gian hàng.",
+      "tryPreparation": "30–45 phút; chỉ dùng thông tin công khai, không sao chép dữ liệu người mua.",
+      "profileKind": "basic"
+    },
+    {
+      "id": "12",
+      "block": 4,
+      "name": "Logistics & Chuỗi Cung ứng",
+      "summary": "Phối hợp nhu cầu, nguồn cung, tồn kho và vận chuyển để hàng hóa đến đúng yêu cầu.",
+      "roles": [
+        "chuyên viên hoạch định nhu cầu, cung ứng (Demand, Supply Planner)",
+        "chuyên viên mua hàng, tìm nguồn (Procurement, Sourcing Specialist)"
+      ],
+      "foundation": "Tư duy quy trình, tính toán, theo dõi thông tin và phối hợp nhiều bên.",
+      "tryPrompt": "Vẽ hành trình giả định đưa sách từ nhà cung cấp đến hội chợ trường. Ghi các chặng, người phụ trách và một điểm có thể chậm. Kết quả giữ lại: Sơ đồ hành trình và một cách xử lý chậm có nêu giả định. Chuẩn bị: 45 phút; không cần truy cập hệ thống vận chuyển thật.",
+      "majorHints": [
+        {
+          "major": "7510605",
+          "reason": "Gợi mở kiến thức về luồng hàng, cung ứng và phối hợp chuỗi."
+        },
+        {
+          "major": "7340120",
+          "reason": "Gợi mở bối cảnh giao dịch và hoạt động kinh doanh quốc tế."
+        }
+      ],
+      "source": "Nhìn Nghề biên tập chọn lọc từ Career Playbook của TS Nguyễn Thị Hoa, Phần 2, nhóm 12; việc thử là minh họa biên tập, không phải bài đánh giá năng lực.",
+      "output": "Kế hoạch cung ứng, bảng theo dõi tồn kho hoặc phương án giao nhận.",
+      "tryTask": "Vẽ hành trình giả định đưa sách từ nhà cung cấp đến hội chợ trường. Ghi các chặng, người phụ trách và một điểm có thể chậm.",
+      "tryResult": "Sơ đồ hành trình và một cách xử lý chậm có nêu giả định.",
+      "tryPreparation": "45 phút; không cần truy cập hệ thống vận chuyển thật.",
+      "profileKind": "basic"
+    },
+    {
+      "id": "13",
+      "block": 4,
+      "name": "Nhân sự & Phát triển Tổ chức",
+      "summary": "Tổ chức công việc và phát triển con người qua tuyển dụng, đào tạo, chính sách nhân sự và thay đổi tổ chức.",
+      "roles": [
+        "chuyên viên tuyển dụng, thu hút nhân tài (Talent Acquisition)",
+        "chuyên viên nhân sự tổng hợp, tiền lương và phúc lợi (HR Generalist, C&B)"
+      ],
+      "foundation": "Hiểu tổ chức, giao tiếp, xây tiêu chí, đọc dữ liệu và giữ thông tin riêng tư.",
+      "tryPrompt": "Viết mô tả một vai trò hỗ trợ trong câu lạc bộ: nhiệm vụ, kết quả cần có và cách bàn giao. Nhờ một bạn kiểm tra độ rõ. Kết quả giữ lại: Một mô tả đã sửa sau góp ý; không chấm tính cách hoặc chọn người thật. Chuẩn bị: 45 phút; chỉ mô phỏng công việc, không thu hồ sơ cá nhân.",
+      "majorHints": [
+        {
+          "major": "7340404",
+          "reason": "Gợi mở tuyển dụng, sử dụng và phát triển nhân lực."
+        },
+        {
+          "major": "7340408",
+          "reason": "Gợi mở quan hệ giữa người lao động và tổ chức."
+        }
+      ],
+      "source": "Nhìn Nghề biên tập chọn lọc từ Career Playbook của TS Nguyễn Thị Hoa, Phần 2, nhóm 13; việc thử là minh họa biên tập, không phải bài đánh giá năng lực.",
+      "output": "Mô tả công việc, kế hoạch đào tạo hoặc phân tích nhân sự tùy vị trí.",
+      "tryTask": "Viết mô tả một vai trò hỗ trợ trong câu lạc bộ: nhiệm vụ, kết quả cần có và cách bàn giao. Nhờ một bạn kiểm tra độ rõ.",
+      "tryResult": "Một mô tả đã sửa sau góp ý; không chấm tính cách hoặc chọn người thật.",
+      "tryPreparation": "45 phút; chỉ mô phỏng công việc, không thu hồ sơ cá nhân.",
+      "profileKind": "basic"
+    },
+    {
+      "id": "14",
+      "block": 4,
+      "name": "Quản lý Dự án & Vận hành Doanh nghiệp",
+      "summary": "Tổ chức nguồn lực, công việc và theo dõi để đạt mục tiêu dự án hoặc cải thiện vận hành.",
+      "roles": [
+        "Điều phối viên dự án (Project Coordinator)",
+        "Chuyên viên văn phòng quản lý dự án (PMO Analyst)",
+        "Chuyên viên vận hành doanh nghiệp",
+        "Chuyên viên cải tiến quy trình"
+      ],
+      "foundation": "Chia việc, lập tiến độ, theo dõi phụ thuộc và nhận biết rủi ro.",
+      "tryPrompt": "Lập kế hoạch giả định cho một buổi sinh hoạt lớp: việc cần làm, thứ tự, người phụ trách và cách xử lý một việc bị trễ. Kết quả giữ lại: Một bảng tiến độ và phương án điều chỉnh; chưa phải sự kiện được phê duyệt. Chuẩn bị: 45–60 phút; không tổ chức hoạt động thực tế trong bài thử.",
+      "majorHints": [
+        {
+          "major": "7340409",
+          "reason": "Gợi mở cách tổ chức và theo dõi việc thực hiện dự án."
+        },
+        {
+          "major": "7340101",
+          "reason": "Gợi mở bối cảnh và các hoạt động quản trị doanh nghiệp."
+        }
+      ],
+      "source": "Nhìn Nghề biên tập chọn lọc từ Career Playbook của TS Nguyễn Thị Hoa, Phần 2, nhóm 14; việc thử là minh họa biên tập, không phải bài đánh giá năng lực.",
+      "output": "Kế hoạch công việc, bảng theo dõi tiến độ hoặc phương án cải tiến quy trình.",
+      "tryTask": "Lập kế hoạch giả định cho một buổi sinh hoạt lớp: việc cần làm, thứ tự, người phụ trách và cách xử lý một việc bị trễ.",
+      "tryResult": "Một bảng tiến độ và phương án điều chỉnh; chưa phải sự kiện được phê duyệt.",
+      "tryPreparation": "45–60 phút; không tổ chức hoạt động thực tế trong bài thử.",
+      "profileKind": "sample",
+      "sampleUrl": "/hoc-sinh/ho-so-mau/quan-ly-du-an-van-hanh/"
+    },
+    {
+      "id": "15",
+      "block": 5,
+      "name": "Business Analysis (BA)",
+      "summary": "Làm rõ vấn đề, nhu cầu và yêu cầu thay đổi để các bên thống nhất giải pháp, không chỉ trong phần mềm.",
+      "roles": [
+        "Business Analyst (BA)",
+        "IT Business Analyst (IT BA)"
+      ],
+      "foundation": "Đặt câu hỏi, mô tả quy trình, lập luận và trao đổi với người sử dụng.",
+      "tryPrompt": "Mô tả quy trình mượn sách em biết, tách điều đã quan sát khỏi điều đang giả định. Chọn một điểm khó và viết yêu cầu cải thiện. Kết quả giữ lại: Một sơ đồ và một yêu cầu có thể kiểm tra; không tự khẳng định nguyên nhân gây chậm. Chuẩn bị: 45 phút; có thể dùng quy trình giả định và ghi rõ.",
+      "majorHints": [
+        {
+          "major": "7340405",
+          "reason": "Gợi mở kết nối nhu cầu quản lý với hệ thống thông tin."
+        },
+        {
+          "major": "7340101",
+          "reason": "Gợi mở hiểu biết về quy trình và hoạt động kinh doanh; cần bổ sung năng lực phân tích yêu cầu."
+        }
+      ],
+      "source": "Nhìn Nghề biên tập chọn lọc từ Career Playbook của TS Nguyễn Thị Hoa, Phần 2, nhóm 15; việc thử là minh họa biên tập, không phải bài đánh giá năng lực.",
+      "output": "Sơ đồ quy trình, tài liệu yêu cầu hoặc tiêu chí kiểm tra giải pháp.",
+      "tryTask": "Mô tả quy trình mượn sách em biết, tách điều đã quan sát khỏi điều đang giả định. Chọn một điểm khó và viết yêu cầu cải thiện.",
+      "tryResult": "Một sơ đồ và một yêu cầu có thể kiểm tra; không tự khẳng định nguyên nhân gây chậm.",
+      "tryPreparation": "45 phút; có thể dùng quy trình giả định và ghi rõ.",
+      "profileKind": "basic"
+    },
+    {
+      "id": "16",
+      "block": 5,
+      "name": "Tư vấn Quản lý & Chiến lược",
+      "summary": "Làm rõ vấn đề quản lý, tìm bằng chứng và so sánh phương án để đưa ra khuyến nghị.",
+      "roles": [
+        "Tư vấn viên quản lý, chiến lược",
+        "Chuyên viên chiến lược nội bộ doanh nghiệp"
+      ],
+      "foundation": "Cấu trúc vấn đề, đọc dữ liệu, phân tích lựa chọn và trình bày lập luận.",
+      "tryPrompt": "Với tình huống giả định câu lạc bộ ít người tham gia, nêu hai cách tìm hiểu nguyên nhân trước khi đề xuất giải pháp; so sánh ưu, nhược điểm. Kết quả giữ lại: Một trang phương án tìm hiểu và điều chưa đủ căn cứ; không kết luận thay tổ chức. Chuẩn bị: 45 phút; không cần khảo sát hoặc nhận dữ liệu nội bộ.",
+      "majorHints": [
+        {
+          "major": "7340101",
+          "reason": "Gợi mở bối cảnh quản trị và các vấn đề của doanh nghiệp."
+        },
+        {
+          "major": "7310101",
+          "reason": "Gợi mở cách phân tích vấn đề và lựa chọn kinh tế."
+        }
+      ],
+      "source": "Nhìn Nghề biên tập chọn lọc từ Career Playbook của TS Nguyễn Thị Hoa, Phần 2, nhóm 16; việc thử là minh họa biên tập, không phải bài đánh giá năng lực.",
+      "output": "Bản phân tích và đề xuất có đánh đổi, giả định và căn cứ.",
+      "tryTask": "Với tình huống giả định câu lạc bộ ít người tham gia, nêu hai cách tìm hiểu nguyên nhân trước khi đề xuất giải pháp; so sánh ưu, nhược điểm.",
+      "tryResult": "Một trang phương án tìm hiểu và điều chưa đủ căn cứ; không kết luận thay tổ chức.",
+      "tryPreparation": "45 phút; không cần khảo sát hoặc nhận dữ liệu nội bộ.",
+      "profileKind": "basic"
+    },
+    {
+      "id": "17",
+      "block": 5,
+      "name": "Quản lý Sản phẩm (Product Management)",
+      "summary": "Chọn vấn đề người dùng cần giải quyết, sắp xếp ưu tiên và phối hợp phát triển, cải thiện sản phẩm.",
+      "roles": [
+        "Quản lý sản phẩm (Product Manager)",
+        "Vị trí đầu vào về quản lý sản phẩm (Associate Product Manager, tùy tổ chức)"
+      ],
+      "foundation": "Hiểu người dùng, so sánh ưu tiên, tư duy sản phẩm và đọc phản hồi.",
+      "tryPrompt": "Chọn ứng dụng em biết, ghi một bất tiện cụ thể, đề xuất hai cách cải thiện và giải thích cách nào nên thử trước. Kết quả giữ lại: Một trang mô tả vấn đề và lựa chọn; phân biệt trải nghiệm cá nhân với nhu cầu của mọi người. Chuẩn bị: 45 phút; không cần lập trình hoặc thu dữ liệu người dùng.",
+      "majorHints": [
+        {
+          "major": "7340405",
+          "reason": "Gợi mở kết nối hoạt động kinh doanh với hệ thống số."
+        },
+        {
+          "major": "7340122",
+          "reason": "Gợi mở bối cảnh sản phẩm và dịch vụ trong kinh doanh số."
+        }
+      ],
+      "source": "Nhìn Nghề biên tập chọn lọc từ Career Playbook của TS Nguyễn Thị Hoa, Phần 2, nhóm 17; việc thử là minh họa biên tập, không phải bài đánh giá năng lực.",
+      "output": "Định hướng sản phẩm, danh sách ưu tiên hoặc kết quả kiểm chứng.",
+      "tryTask": "Chọn ứng dụng em biết, ghi một bất tiện cụ thể, đề xuất hai cách cải thiện và giải thích cách nào nên thử trước.",
+      "tryResult": "Một trang mô tả vấn đề và lựa chọn; phân biệt trải nghiệm cá nhân với nhu cầu của mọi người.",
+      "tryPreparation": "45 phút; không cần lập trình hoặc thu dữ liệu người dùng.",
+      "profileKind": "basic"
+    },
+    {
+      "id": "18",
+      "block": 5,
+      "name": "Phát triển Quốc tế & Tổ chức Phi lợi nhuận",
+      "summary": "Thiết kế, huy động nguồn lực, triển khai và theo dõi chương trình giải quyết vấn đề xã hội.",
+      "roles": [
+        "Cán bộ, Chuyên viên Chương trình (Programme Officer, Programme Associate)",
+        "Chuyên viên Giám sát, Đánh giá & Học hỏi (Monitoring, Evaluation & Learning – MEL, nhiều nơi gọi là M&E)"
+      ],
+      "foundation": "Hiểu bối cảnh cộng đồng, lập kế hoạch, theo dõi chỉ số và lắng nghe các bên.",
+      "tryPrompt": "Chọn một hoạt động cộng đồng được công bố. Phân biệt việc đã thực hiện với thay đổi mà hoạt động mong muốn tạo ra. Kết quả giữ lại: Hai cột hoạt động–thay đổi mong muốn và một câu hỏi về bằng chứng; không tự kết luận tác động. Chuẩn bị: 30–45 phút; chỉ đọc nguồn công khai, không tiếp cận nhóm dễ bị tổn thương.",
+      "majorHints": [
+        {
+          "major": "7310105",
+          "reason": "Gợi mở kiến thức về phát triển và các vấn đề cộng đồng."
+        },
+        {
+          "major": "7340409",
+          "reason": "Gợi mở cách tổ chức, theo dõi dự án và hoạt động."
+        }
+      ],
+      "source": "Nhìn Nghề biên tập chọn lọc từ Career Playbook của TS Nguyễn Thị Hoa, Phần 2, nhóm 18; việc thử là minh họa biên tập, không phải bài đánh giá năng lực.",
+      "output": "Kế hoạch chương trình, báo cáo tiến độ hoặc phân tích kết quả có giới hạn.",
+      "tryTask": "Chọn một hoạt động cộng đồng được công bố. Phân biệt việc đã thực hiện với thay đổi mà hoạt động mong muốn tạo ra.",
+      "tryResult": "Hai cột hoạt động–thay đổi mong muốn và một câu hỏi về bằng chứng; không tự kết luận tác động.",
+      "tryPreparation": "30–45 phút; chỉ đọc nguồn công khai, không tiếp cận nhóm dễ bị tổn thương.",
+      "profileKind": "basic"
+    },
+    {
+      "id": "19",
+      "block": 6,
+      "name": "Khoa học Dữ liệu",
+      "summary": "Dùng thống kê, lập trình và mô hình để dự báo hoặc phân tích những câu hỏi cần xử lý sâu từ dữ liệu.",
+      "roles": [
+        "Nhà khoa học dữ liệu (Data Scientist)",
+        "Applied Data Scientist"
+      ],
+      "foundation": "Toán, thống kê, lập trình, chất lượng dữ liệu và kiểm tra mô hình.",
+      "tryPrompt": "Tạo dãy mười số giả định, dùng trung bình của phần đầu để ước lượng một giá trị tiếp theo và so với số đã đặt; ghi vì sao cách này có thể sai. Kết quả giữ lại: Một bảng thử ước lượng và nhận xét giới hạn; chưa phải mô hình khoa học dữ liệu hoàn chỉnh. Chuẩn bị: 45 phút; biết trung bình cộng, có thể làm bằng giấy hoặc bảng tính.",
+      "majorHints": [
+        {
+          "major": "7460108",
+          "reason": "Gợi mở các phương pháp phân tích và mô hình từ dữ liệu."
+        },
+        {
+          "major": "7310107",
+          "reason": "Gợi mở nền thống kê; cần tìm hiểu thêm yêu cầu lập trình và mô hình."
+        }
+      ],
+      "source": "Nhìn Nghề biên tập chọn lọc từ Career Playbook của TS Nguyễn Thị Hoa, Phần 2, nhóm 19; việc thử là minh họa biên tập, không phải bài đánh giá năng lực.",
+      "output": "Mô hình, phân tích và báo cáo đánh giá sai số, giới hạn.",
+      "tryTask": "Tạo dãy mười số giả định, dùng trung bình của phần đầu để ước lượng một giá trị tiếp theo và so với số đã đặt; ghi vì sao cách này có thể sai.",
+      "tryResult": "Một bảng thử ước lượng và nhận xét giới hạn; chưa phải mô hình khoa học dữ liệu hoàn chỉnh.",
+      "tryPreparation": "45 phút; biết trung bình cộng, có thể làm bằng giấy hoặc bảng tính.",
+      "profileKind": "basic"
+    },
+    {
+      "id": "20",
+      "block": 6,
+      "name": "Trí tuệ Nhân tạo Ứng dụng Kinh doanh",
+      "summary": "Xây, kiểm tra, tích hợp và theo dõi ứng dụng trí tuệ nhân tạo để giải quyết nhiệm vụ trong tổ chức.",
+      "roles": [
+        "kỹ sư học máy (Machine Learning Engineer – ML Engineer)",
+        "kỹ sư AI (AI Engineer)"
+      ],
+      "foundation": "Lập trình, dữ liệu, đánh giá hệ thống và hiểu bài toán sử dụng.",
+      "tryPrompt": "Trên giấy, thiết kế trợ lý trả lời câu hỏi về một sự kiện giả định. Viết ba câu hỏi có thông tin và hai câu thiếu thông tin; nêu cách trợ lý nên trả lời. Kết quả giữ lại: Một bản thiết kế ngắn và năm tình huống kiểm thử; chưa tạo ứng dụng AI vận hành thật. Chuẩn bị: 45–60 phút; không cần tài khoản AI hoặc lập trình, không nhập dữ liệu thật.",
+      "majorHints": [
+        {
+          "major": "7480107",
+          "reason": "Gợi mở kiến thức và phương pháp của trí tuệ nhân tạo."
+        },
+        {
+          "major": "7480201",
+          "reason": "Gợi mở nền lập trình và hệ thống; cần xem nội dung AI của từng chương trình."
+        }
+      ],
+      "source": "Nhìn Nghề biên tập chọn lọc từ Career Playbook của TS Nguyễn Thị Hoa, Phần 2, nhóm 20; việc thử là minh họa biên tập, không phải bài đánh giá năng lực.",
+      "output": "Ứng dụng hoặc luồng xử lý AI cùng kết quả kiểm thử và theo dõi.",
+      "tryTask": "Trên giấy, thiết kế trợ lý trả lời câu hỏi về một sự kiện giả định. Viết ba câu hỏi có thông tin và hai câu thiếu thông tin; nêu cách trợ lý nên trả lời.",
+      "tryResult": "Một bản thiết kế ngắn và năm tình huống kiểm thử; chưa tạo ứng dụng AI vận hành thật.",
+      "tryPreparation": "45–60 phút; không cần tài khoản AI hoặc lập trình, không nhập dữ liệu thật.",
+      "profileKind": "basic"
+    },
+    {
+      "id": "21",
+      "block": 6,
+      "name": "Phân tích Dữ liệu & Trí tuệ Kinh doanh (BI)",
+      "summary": "Làm rõ chỉ số, kiểm dữ liệu và phân tích để tạo báo cáo hỗ trợ quyết định.",
+      "roles": [
+        "Chuyên viên phân tích dữ liệu (Data Analyst)",
+        "Chuyên viên phân tích kinh doanh dựa trên dữ liệu (BI Analyst)"
+      ],
+      "foundation": "Thống kê cơ bản, bảng tính, kiểm tra dữ liệu và giải thích kết quả.",
+      "tryPrompt": "Dùng bảng doanh thu giả định theo tuần và sản phẩm. Tính tổng, vẽ một biểu đồ và viết một nhận xét có căn cứ. Kết quả giữ lại: Một bảng, một biểu đồ và giới hạn nhận xét; không suy ra nguyên nhân khi chưa đủ thông tin. Chuẩn bị: 45–60 phút; biết thao tác bảng tính cơ bản, không thu dữ liệu cá nhân.",
+      "majorHints": [
+        {
+          "major": "7460108",
+          "reason": "Gợi mở cách xử lý và phân tích dữ liệu."
+        },
+        {
+          "major": "7340405",
+          "reason": "Gợi mở cách sử dụng thông tin và hệ thống để hỗ trợ quản lý."
+        }
+      ],
+      "source": "Nhìn Nghề biên tập chọn lọc từ Career Playbook của TS Nguyễn Thị Hoa, Phần 2, nhóm 21; việc thử là minh họa biên tập, không phải bài đánh giá năng lực.",
+      "output": "Bảng phân tích, báo cáo hoặc bảng điều khiển với cách tính rõ.",
+      "tryTask": "Dùng bảng doanh thu giả định theo tuần và sản phẩm. Tính tổng, vẽ một biểu đồ và viết một nhận xét có căn cứ.",
+      "tryResult": "Một bảng, một biểu đồ và giới hạn nhận xét; không suy ra nguyên nhân khi chưa đủ thông tin.",
+      "tryPreparation": "45–60 phút; biết thao tác bảng tính cơ bản, không thu dữ liệu cá nhân.",
+      "profileKind": "basic"
+    },
+    {
+      "id": "22",
+      "block": 6,
+      "name": "Hệ thống Thông tin & Chuyển đổi Số",
+      "summary": "Đưa hệ thống thông tin vào hoạt động, cấu hình và kết nối dữ liệu theo quy trình doanh nghiệp.",
+      "roles": [
+        "Tư vấn chức năng hệ thống quản trị nguồn lực doanh nghiệp hoặc quản lý quan hệ khách hàng (ERP/CRM)",
+        "Chuyên viên ứng dụng doanh nghiệp"
+      ],
+      "foundation": "Hiểu quy trình, dữ liệu, hệ thống và kiểm tra tính nhất quán.",
+      "tryPrompt": "Giả định câu lạc bộ dùng bảng theo dõi mượn thiết bị. Chọn trường dữ liệu cần có, người được cập nhật và một tình huống cần kiểm tra. Kết quả giữ lại: Một bảng mẫu và kịch bản kiểm tra; chưa phải triển khai phần mềm doanh nghiệp. Chuẩn bị: 45 phút; dùng tên và thiết bị giả định, không chia sẻ tài khoản.",
+      "majorHints": [
+        {
+          "major": "7340405",
+          "reason": "Gợi mở kết nối hệ thống thông tin với hoạt động quản lý."
+        },
+        {
+          "major": "7480104",
+          "reason": "Gợi mở việc thiết kế, triển khai và vận hành hệ thống thông tin."
+        }
+      ],
+      "source": "Nhìn Nghề biên tập chọn lọc từ Career Playbook của TS Nguyễn Thị Hoa, Phần 2, nhóm 22; việc thử là minh họa biên tập, không phải bài đánh giá năng lực.",
+      "output": "Yêu cầu cấu hình, kịch bản kiểm thử hoặc tài liệu hướng dẫn sử dụng.",
+      "tryTask": "Giả định câu lạc bộ dùng bảng theo dõi mượn thiết bị. Chọn trường dữ liệu cần có, người được cập nhật và một tình huống cần kiểm tra.",
+      "tryResult": "Một bảng mẫu và kịch bản kiểm tra; chưa phải triển khai phần mềm doanh nghiệp.",
+      "tryPreparation": "45 phút; dùng tên và thiết bị giả định, không chia sẻ tài khoản.",
+      "profileKind": "basic"
+    },
+    {
+      "id": "23",
+      "block": 7,
+      "name": "Quản trị Khách sạn & Resort",
+      "summary": "Phối hợp dịch vụ lưu trú, nhân lực và nguồn lực để giữ chất lượng trải nghiệm khách và hiệu quả vận hành.",
+      "roles": [
+        "lễ tân, dịch vụ khách (Front Office, Guest Services)",
+        "điều phối buồng phòng (Housekeeping)"
+      ],
+      "foundation": "Giao tiếp dịch vụ, tổ chức công việc, ngoại ngữ và theo dõi chất lượng.",
+      "tryPrompt": "Mô phỏng tình huống phòng chưa sẵn sàng khi khách đến: ghi thông tin cần xác minh và cách phối hợp giữa lễ tân, buồng phòng. Kết quả giữ lại: Một sơ đồ xử lý tình huống; không tự hứa bồi thường hay xử lý thay cơ sở thật. Chuẩn bị: 30–45 phút; không cần đi làm thêm hoặc tiếp cận thông tin khách.",
+      "majorHints": [
+        {
+          "major": "7810201",
+          "reason": "Gợi mở hoạt động quản trị và phục vụ trong khách sạn."
+        },
+        {
+          "major": "7810202",
+          "reason": "Gợi mở tổ chức dịch vụ ăn uống và trải nghiệm khách."
+        }
+      ],
+      "source": "Nhìn Nghề biên tập chọn lọc từ Career Playbook của TS Nguyễn Thị Hoa, Phần 2, nhóm 23; việc thử là minh họa biên tập, không phải bài đánh giá năng lực.",
+      "output": "Kế hoạch phục vụ, bảng bàn giao hoặc báo cáo chất lượng, doanh thu tùy vị trí.",
+      "tryTask": "Mô phỏng tình huống phòng chưa sẵn sàng khi khách đến: ghi thông tin cần xác minh và cách phối hợp giữa lễ tân, buồng phòng.",
+      "tryResult": "Một sơ đồ xử lý tình huống; không tự hứa bồi thường hay xử lý thay cơ sở thật.",
+      "tryPreparation": "30–45 phút; không cần đi làm thêm hoặc tiếp cận thông tin khách.",
+      "profileKind": "basic"
+    },
+    {
+      "id": "24",
+      "block": 7,
+      "name": "Du lịch & Lữ hành",
+      "summary": "Thiết kế, bán và điều phối chuyến đi để đáp ứng nhu cầu khách trong các điều kiện thực tế.",
+      "roles": [
+        "nhân viên sản phẩm tour, thiết kế hành trình (Tour Product)",
+        "điều hành tour, đặt chỗ (Tour Operations, Reservations)"
+      ],
+      "foundation": "Hiểu điểm đến, lập lịch, tính chi phí, giao tiếp và xử lý thay đổi.",
+      "tryPrompt": "Thiết kế chuyến tham quan trong ngày trên giấy: đối tượng, các chặng, thời gian dự kiến và phương án khi trời mưa. Kết quả giữ lại: Một lịch trình có giả định chi phí và câu hỏi cần xác minh; không tổ chức chuyến đi thật. Chuẩn bị: 45–60 phút; dùng thông tin công khai, chưa đặt dịch vụ.",
+      "majorHints": [
+        {
+          "major": "7810103",
+          "reason": "Gợi mở thiết kế và tổ chức hoạt động lữ hành."
+        },
+        {
+          "major": "7810101",
+          "reason": "Gợi mở kiến thức về du lịch và các hoạt động liên quan."
+        }
+      ],
+      "source": "Nhìn Nghề biên tập chọn lọc từ Career Playbook của TS Nguyễn Thị Hoa, Phần 2, nhóm 24; việc thử là minh họa biên tập, không phải bài đánh giá năng lực.",
+      "output": "Hành trình, bảng dự toán hoặc kế hoạch điều hành chuyến đi.",
+      "tryTask": "Thiết kế chuyến tham quan trong ngày trên giấy: đối tượng, các chặng, thời gian dự kiến và phương án khi trời mưa.",
+      "tryResult": "Một lịch trình có giả định chi phí và câu hỏi cần xác minh; không tổ chức chuyến đi thật.",
+      "tryPreparation": "45–60 phút; dùng thông tin công khai, chưa đặt dịch vụ.",
+      "profileKind": "basic"
+    },
+    {
+      "id": "25",
+      "block": 7,
+      "name": "Tổ chức Sự kiện & Công nghiệp Giải trí",
+      "summary": "Biến mục tiêu thành sự kiện khả thi, phối hợp triển khai và xử lý thay đổi trong vận hành.",
+      "roles": [
+        "quản lý, tổ chức sự kiện (Event Manager)",
+        "sản xuất sự kiện (Event Producer)"
+      ],
+      "foundation": "Lập kế hoạch, phối hợp, theo dõi nguồn lực và nhận biết rủi ro.",
+      "tryPrompt": "Lập kịch bản giả định cho chương trình giới thiệu sách 30 phút: mục tiêu, người tham dự, thứ tự hoạt động và phương án khi thiết bị không hoạt động. Kết quả giữ lại: Một trang kịch bản và phương án dự phòng; chưa phải kế hoạch tổ chức được duyệt. Chuẩn bị: 45–60 phút; không cần sân khấu, thiết bị hoặc ngân sách thật.",
+      "majorHints": [
+        {
+          "major": "7340412",
+          "reason": "Gợi mở cách tổ chức, điều phối và vận hành sự kiện."
+        },
+        {
+          "major": "7320108",
+          "reason": "Gợi mở bối cảnh sự kiện trong hoạt động quan hệ công chúng."
+        }
+      ],
+      "source": "Nhìn Nghề biên tập chọn lọc từ Career Playbook của TS Nguyễn Thị Hoa, Phần 2, nhóm 25; việc thử là minh họa biên tập, không phải bài đánh giá năng lực.",
+      "output": "Đề xuất sự kiện, kịch bản vận hành hoặc bảng phân công, kiểm tra.",
+      "tryTask": "Lập kịch bản giả định cho chương trình giới thiệu sách 30 phút: mục tiêu, người tham dự, thứ tự hoạt động và phương án khi thiết bị không hoạt động.",
+      "tryResult": "Một trang kịch bản và phương án dự phòng; chưa phải kế hoạch tổ chức được duyệt.",
+      "tryPreparation": "45–60 phút; không cần sân khấu, thiết bị hoặc ngân sách thật.",
+      "profileKind": "basic"
+    }
+  ],
+  "majors": [
+    {
+      "id": "7310101",
+      "name": "Kinh tế",
+      "overview": "Tìm hiểu lựa chọn của cá nhân, doanh nghiệp và sự vận hành của nền kinh tế trong điều kiện nguồn lực có hạn.",
+      "programQuestion": "Chương trình thiên về lý thuyết, phân tích định lượng hay một lĩnh vực ứng dụng nào?",
+      "source": "Mô tả khái quát do Nhìn Nghề biên tập để khám phá; phải đối chiếu chương trình cụ thể, không phải mô tả chuẩn áp dụng cho mọi trường."
+    },
+    {
+      "id": "7310102",
+      "name": "Kinh tế chính trị",
+      "overview": "Tìm hiểu quan hệ kinh tế gắn với thể chế, sở hữu, phân phối và quá trình phát triển của xã hội.",
+      "programQuestion": "Các cách tiếp cận kinh tế chính trị được học và vận dụng vào những vấn đề nào?",
+      "source": "Mô tả khái quát do Nhìn Nghề biên tập để khám phá; phải đối chiếu chương trình cụ thể, không phải mô tả chuẩn áp dụng cho mọi trường."
+    },
+    {
+      "id": "7310104",
+      "name": "Kinh tế đầu tư",
+      "overview": "Tập trung vào quyết định đầu tư, phân bổ vốn và đánh giá hiệu quả của dự án trong bối cảnh kinh tế.",
+      "programQuestion": "Có thực hành lập, thẩm định dự án và phân tích rủi ro theo những loại dự án nào?",
+      "source": "Mô tả khái quát do Nhìn Nghề biên tập để khám phá; phải đối chiếu chương trình cụ thể, không phải mô tả chuẩn áp dụng cho mọi trường."
+    },
+    {
+      "id": "7310105",
+      "name": "Kinh tế phát triển",
+      "overview": "Tìm hiểu tăng trưởng, chuyển dịch cơ cấu và cải thiện đời sống, cùng các vấn đề phát triển ở quốc gia, vùng hoặc cộng đồng.",
+      "programQuestion": "Chương trình có phân tích chính sách phát triển, bất bình đẳng và thực hành nghiên cứu ra sao?",
+      "source": "Mô tả khái quát do Nhìn Nghề biên tập để khám phá; phải đối chiếu chương trình cụ thể, không phải mô tả chuẩn áp dụng cho mọi trường."
+    },
+    {
+      "id": "7310106",
+      "name": "Kinh tế quốc tế",
+      "overview": "Tìm hiểu trao đổi thương mại, đầu tư và các quan hệ kinh tế giữa các quốc gia.",
+      "programQuestion": "Nội dung thiên về phân tích quan hệ kinh tế hay nghiệp vụ kinh doanh xuyên biên giới?",
+      "source": "Mô tả khái quát do Nhìn Nghề biên tập để khám phá; phải đối chiếu chương trình cụ thể, không phải mô tả chuẩn áp dụng cho mọi trường."
+    },
+    {
+      "id": "7310107",
+      "name": "Thống kê kinh tế",
+      "overview": "Tập trung thu thập, đo lường và phân tích số liệu để mô tả, giải thích các hiện tượng kinh tế.",
+      "programQuestion": "Sinh viên được thực hành điều tra, kiểm tra dữ liệu và phân tích kinh tế bằng công cụ nào?",
+      "source": "Mô tả khái quát do Nhìn Nghề biên tập để khám phá; phải đối chiếu chương trình cụ thể, không phải mô tả chuẩn áp dụng cho mọi trường."
+    },
+    {
+      "id": "7310108",
+      "name": "Toán kinh tế",
+      "overview": "Vận dụng toán và mô hình định lượng để biểu diễn, phân tích hoặc hỗ trợ quyết định về các vấn đề kinh tế.",
+      "programQuestion": "Mức độ toán, thống kê, lập trình và ứng dụng vào kinh tế, tài chính khác nhau thế nào?",
+      "source": "Mô tả khái quát do Nhìn Nghề biên tập để khám phá; phải đối chiếu chương trình cụ thể, không phải mô tả chuẩn áp dụng cho mọi trường."
+    },
+    {
+      "id": "7310109",
+      "name": "Kinh tế số",
+      "overview": "Tìm hiểu hoạt động kinh tế thay đổi khi dữ liệu, nền tảng và công nghệ số được sử dụng rộng rãi.",
+      "programQuestion": "Trọng tâm là kinh tế học về chuyển đổi số, kinh doanh số hay kỹ thuật dữ liệu?",
+      "source": "Mô tả khái quát do Nhìn Nghề biên tập để khám phá; phải đối chiếu chương trình cụ thể, không phải mô tả chuẩn áp dụng cho mọi trường."
+    },
+    {
+      "id": "7310110",
+      "name": "Quản lý kinh tế",
+      "overview": "Tập trung tổ chức, điều phối và sử dụng công cụ quản lý đối với hoạt động kinh tế.",
+      "programQuestion": "Quản lý ở cấp doanh nghiệp, địa phương hay nền kinh tế; có thực hành phân tích quyết định không?",
+      "source": "Mô tả khái quát do Nhìn Nghề biên tập để khám phá; phải đối chiếu chương trình cụ thể, không phải mô tả chuẩn áp dụng cho mọi trường."
+    },
+    {
+      "id": "7310113",
+      "name": "Kinh tế thể thao",
+      "overview": "Nhìn hoạt động thể thao từ góc độ kinh tế: nguồn lực, chi phí, doanh thu và giá trị của các hoạt động, dịch vụ thể thao.",
+      "programQuestion": "Nội dung kinh tế, kinh doanh và vận hành thể thao được kết hợp như thế nào?",
+      "source": "Mô tả khái quát do Nhìn Nghề biên tập để khám phá; phải đối chiếu chương trình cụ thể, không phải mô tả chuẩn áp dụng cho mọi trường."
+    },
+    {
+      "id": "7310205",
+      "name": "Quản lý nhà nước",
+      "overview": "Tìm hiểu tổ chức bộ máy, hoạt động hành chính và thực thi quản lý trong khu vực nhà nước.",
+      "programQuestion": "Chương trình chú trọng hành chính, chính sách hay quản lý theo lĩnh vực; thực hành ở đâu?",
+      "source": "Mô tả khái quát do Nhìn Nghề biên tập để khám phá; phải đối chiếu chương trình cụ thể, không phải mô tả chuẩn áp dụng cho mọi trường."
+    },
+    {
+      "id": "7320108",
+      "name": "Quan hệ công chúng",
+      "overview": "Tập trung xây dựng quan hệ và trao đổi thông tin giữa tổ chức với báo chí, cộng đồng, nhân viên và các bên liên quan.",
+      "programQuestion": "Có thực hành viết, kiểm chứng thông tin, truyền thông và xử lý tình huống quan hệ công chúng ra sao?",
+      "source": "Mô tả khái quát do Nhìn Nghề biên tập để khám phá; phải đối chiếu chương trình cụ thể, không phải mô tả chuẩn áp dụng cho mọi trường."
+    },
+    {
+      "id": "7340101",
+      "name": "Quản trị kinh doanh",
+      "overview": "Tìm hiểu cách tổ chức và điều hành doanh nghiệp qua các chức năng như chiến lược, marketing, nhân sự, tài chính và vận hành.",
+      "programQuestion": "Học rộng nhiều chức năng hay có chuyên ngành sâu; sinh viên được giải quyết bài toán doanh nghiệp nào?",
+      "source": "Mô tả khái quát do Nhìn Nghề biên tập để khám phá; phải đối chiếu chương trình cụ thể, không phải mô tả chuẩn áp dụng cho mọi trường."
+    },
+    {
+      "id": "7340114",
+      "name": "Digital marketing",
+      "overview": "Tập trung hoạt động tiếp thị trên môi trường số, từ tiếp cận khách hàng đến nội dung, kênh và đo lường kết quả.",
+      "programQuestion": "Nền tảng marketing, phân tích dữ liệu và thực hành kênh số được cân đối ra sao?",
+      "source": "Mô tả khái quát do Nhìn Nghề biên tập để khám phá; phải đối chiếu chương trình cụ thể, không phải mô tả chuẩn áp dụng cho mọi trường."
+    },
+    {
+      "id": "7340115",
+      "name": "Marketing",
+      "overview": "Tìm hiểu thị trường, khách hàng và cách xây dựng giá trị, định vị, tiếp cận và duy trì quan hệ với khách hàng.",
+      "programQuestion": "Có những phần nào về nghiên cứu, chiến lược, thương hiệu và triển khai; không chỉ học quảng cáo?",
+      "source": "Mô tả khái quát do Nhìn Nghề biên tập để khám phá; phải đối chiếu chương trình cụ thể, không phải mô tả chuẩn áp dụng cho mọi trường."
+    },
+    {
+      "id": "7340116",
+      "name": "Bất động sản",
+      "overview": "Tìm hiểu thị trường, kinh doanh và quản lý tài sản bất động sản gắn với bối cảnh kinh tế và các điều kiện liên quan.",
+      "programQuestion": "Chương trình thiên về thị trường, định giá, kinh doanh hay quản lý tài sản; có thực hành gì?",
+      "source": "Mô tả khái quát do Nhìn Nghề biên tập để khám phá; phải đối chiếu chương trình cụ thể, không phải mô tả chuẩn áp dụng cho mọi trường."
+    },
+    {
+      "id": "7340120",
+      "name": "Kinh doanh quốc tế",
+      "overview": "Tập trung hoạt động kinh doanh của doanh nghiệp qua biên giới, với khác biệt về thị trường, văn hóa và môi trường hoạt động.",
+      "programQuestion": "Học về chiến lược quốc tế, giao dịch, vận hành và ngoại ngữ đến mức nào?",
+      "source": "Mô tả khái quát do Nhìn Nghề biên tập để khám phá; phải đối chiếu chương trình cụ thể, không phải mô tả chuẩn áp dụng cho mọi trường."
+    },
+    {
+      "id": "7340121",
+      "name": "Kinh doanh thương mại",
+      "overview": "Tìm hiểu mua bán, phân phối và tổ chức hoạt động thương mại để đưa hàng hóa, dịch vụ tới khách hàng.",
+      "programQuestion": "Trọng tâm là mua hàng, bán hàng, bán lẻ hay phân phối; sinh viên thực hành giao dịch ra sao?",
+      "source": "Mô tả khái quát do Nhìn Nghề biên tập để khám phá; phải đối chiếu chương trình cụ thể, không phải mô tả chuẩn áp dụng cho mọi trường."
+    },
+    {
+      "id": "7340122",
+      "name": "Thương mại điện tử",
+      "overview": "Tập trung hoạt động kinh doanh qua môi trường trực tuyến, kết hợp giao dịch, công nghệ và vận hành.",
+      "programQuestion": "Có học vận hành gian hàng, dữ liệu, thanh toán và hệ thống ở mức nào; khác tiếp thị số ở đâu?",
+      "source": "Mô tả khái quát do Nhìn Nghề biên tập để khám phá; phải đối chiếu chương trình cụ thể, không phải mô tả chuẩn áp dụng cho mọi trường."
+    },
+    {
+      "id": "7340123",
+      "name": "Kinh doanh thời trang và dệt may",
+      "overview": "Tìm hiểu kinh doanh trong chuỗi thời trang, dệt may: thị trường, đơn hàng, nguồn cung và phân phối sản phẩm.",
+      "programQuestion": "Thiên về quản lý đơn hàng, chuỗi cung ứng hay bán lẻ thời trang; khác thiết kế thời trang thế nào?",
+      "source": "Mô tả khái quát do Nhìn Nghề biên tập để khám phá; phải đối chiếu chương trình cụ thể, không phải mô tả chuẩn áp dụng cho mọi trường."
+    },
+    {
+      "id": "7340129",
+      "name": "Quản trị kinh doanh thực phẩm",
+      "overview": "Kết hợp quản trị kinh doanh với đặc điểm thị trường, sản phẩm và chuỗi hoạt động của lĩnh vực thực phẩm.",
+      "programQuestion": "Phần kiến thức thực phẩm, kinh doanh và quản lý chất lượng được kết hợp đến đâu?",
+      "source": "Mô tả khái quát do Nhìn Nghề biên tập để khám phá; phải đối chiếu chương trình cụ thể, không phải mô tả chuẩn áp dụng cho mọi trường."
+    },
+    {
+      "id": "7340201",
+      "name": "Tài chính – Ngân hàng",
+      "overview": "Tìm hiểu hoạt động tài chính và ngân hàng, từ nguồn vốn, dịch vụ tài chính đến phân tích và quản lý rủi ro.",
+      "programQuestion": "Có những hướng chuyên sâu nào; sinh viên được thực hành hồ sơ, phân tích và dữ liệu ra sao?",
+      "source": "Mô tả khái quát do Nhìn Nghề biên tập để khám phá; phải đối chiếu chương trình cụ thể, không phải mô tả chuẩn áp dụng cho mọi trường."
+    },
+    {
+      "id": "7340204",
+      "name": "Bảo hiểm",
+      "overview": "Tập trung cơ chế bảo hiểm, chuyển giao rủi ro và hoạt động cung cấp, quản lý dịch vụ bảo hiểm.",
+      "programQuestion": "Chương trình nghiêng về nghiệp vụ, định phí, quản trị rủi ro hay phân phối sản phẩm?",
+      "source": "Mô tả khái quát do Nhìn Nghề biên tập để khám phá; phải đối chiếu chương trình cụ thể, không phải mô tả chuẩn áp dụng cho mọi trường."
+    },
+    {
+      "id": "7340205",
+      "name": "Công nghệ tài chính",
+      "overview": "Kết hợp tài chính với công nghệ để phân tích, xây dựng hoặc vận hành các dịch vụ tài chính số.",
+      "programQuestion": "Mức độ toán, lập trình, dữ liệu và nghiệp vụ tài chính là bao nhiêu; sinh viên tạo sản phẩm gì?",
+      "source": "Mô tả khái quát do Nhìn Nghề biên tập để khám phá; phải đối chiếu chương trình cụ thể, không phải mô tả chuẩn áp dụng cho mọi trường."
+    },
+    {
+      "id": "7340206",
+      "name": "Tài chính quốc tế",
+      "overview": "Tìm hiểu các dòng vốn, giao dịch và quyết định tài chính trong bối cảnh xuyên biên giới.",
+      "programQuestion": "Phần tỷ giá, thanh toán, đầu tư và quản trị rủi ro quốc tế được đào sâu như thế nào?",
+      "source": "Mô tả khái quát do Nhìn Nghề biên tập để khám phá; phải đối chiếu chương trình cụ thể, không phải mô tả chuẩn áp dụng cho mọi trường."
+    },
+    {
+      "id": "7340207",
+      "name": "Bảo hiểm – Tài chính",
+      "overview": "Kết nối hoạt động bảo hiểm với tài chính và quản trị rủi ro, tùy định hướng của chương trình.",
+      "programQuestion": "Khối kiến thức bảo hiểm và tài chính phân bổ ra sao; khác ngành Bảo hiểm ở những học phần và thực hành nào?",
+      "source": "Mô tả khái quát do Nhìn Nghề biên tập để khám phá; phải đối chiếu chương trình cụ thể, không phải mô tả chuẩn áp dụng cho mọi trường."
+    },
+    {
+      "id": "7340301",
+      "name": "Kế toán",
+      "overview": "Tập trung ghi nhận, xử lý và trình bày thông tin kế toán để phục vụ báo cáo, quản lý và các nghĩa vụ liên quan.",
+      "programQuestion": "Có thực hành chứng từ, lập báo cáo, kế toán quản trị và phần mềm với tình huống nào?",
+      "source": "Mô tả khái quát do Nhìn Nghề biên tập để khám phá; phải đối chiếu chương trình cụ thể, không phải mô tả chuẩn áp dụng cho mọi trường."
+    },
+    {
+      "id": "7340302",
+      "name": "Kiểm toán",
+      "overview": "Tập trung kiểm tra, đánh giá thông tin và kiểm soát dựa trên bằng chứng để đưa ra kết luận trong phạm vi kiểm toán.",
+      "programQuestion": "Nền tảng kế toán, cách kiểm tra bằng chứng và các nhánh kiểm toán được học đến đâu?",
+      "source": "Mô tả khái quát do Nhìn Nghề biên tập để khám phá; phải đối chiếu chương trình cụ thể, không phải mô tả chuẩn áp dụng cho mọi trường."
+    },
+    {
+      "id": "7340401",
+      "name": "Khoa học quản lý",
+      "overview": "Tìm hiểu tổ chức, phương pháp và công cụ quản lý để thiết kế công việc, điều phối nguồn lực và hỗ trợ quyết định.",
+      "programQuestion": "Thiên về lý thuyết tổ chức, phân tích hệ thống hay quản lý theo chức năng; có bài tập ứng dụng gì?",
+      "source": "Mô tả khái quát do Nhìn Nghề biên tập để khám phá; phải đối chiếu chương trình cụ thể, không phải mô tả chuẩn áp dụng cho mọi trường."
+    },
+    {
+      "id": "7340403",
+      "name": "Quản lý công",
+      "overview": "Tập trung quản lý nguồn lực, tổ chức và kết quả hoạt động vì mục tiêu công, trong bối cảnh khu vực công.",
+      "programQuestion": "Chú trọng chính sách, tài chính công, quản trị tổ chức hay dịch vụ công; khác Quản lý nhà nước thế nào?",
+      "source": "Mô tả khái quát do Nhìn Nghề biên tập để khám phá; phải đối chiếu chương trình cụ thể, không phải mô tả chuẩn áp dụng cho mọi trường."
+    },
+    {
+      "id": "7340404",
+      "name": "Quản trị nhân lực",
+      "overview": "Tìm hiểu cách tổ chức công việc, tuyển dụng, đào tạo, đãi ngộ và phát triển con người trong tổ chức.",
+      "programQuestion": "Có thực hành xây tiêu chí, phân tích nhân sự và giải quyết tình huống quản trị con người ra sao?",
+      "source": "Mô tả khái quát do Nhìn Nghề biên tập để khám phá; phải đối chiếu chương trình cụ thể, không phải mô tả chuẩn áp dụng cho mọi trường."
+    },
+    {
+      "id": "7340405",
+      "name": "Hệ thống thông tin quản lý",
+      "overview": "Kết nối nhu cầu quản lý với hệ thống thông tin, dữ liệu và quy trình trong tổ chức.",
+      "programQuestion": "Mức độ lập trình, cơ sở dữ liệu, phân tích nghiệp vụ và triển khai hệ thống được cân đối thế nào?",
+      "source": "Mô tả khái quát do Nhìn Nghề biên tập để khám phá; phải đối chiếu chương trình cụ thể, không phải mô tả chuẩn áp dụng cho mọi trường."
+    },
+    {
+      "id": "7340406",
+      "name": "Quản trị văn phòng",
+      "overview": "Tập trung tổ chức hoạt động văn phòng, xử lý thông tin, hồ sơ và phối hợp hành chính trong cơ quan, doanh nghiệp.",
+      "programQuestion": "Có học quản lý hồ sơ, quy trình hành chính và công cụ văn phòng số đến mức nào?",
+      "source": "Mô tả khái quát do Nhìn Nghề biên tập để khám phá; phải đối chiếu chương trình cụ thể, không phải mô tả chuẩn áp dụng cho mọi trường."
+    },
+    {
+      "id": "7340408",
+      "name": "Quan hệ lao động",
+      "overview": "Tìm hiểu quan hệ giữa người lao động, người sử dụng lao động và các bên liên quan trong môi trường làm việc.",
+      "programQuestion": "Nội dung đối thoại, thương lượng, quan hệ việc làm và nền tảng pháp lý được thực hành ra sao?",
+      "source": "Mô tả khái quát do Nhìn Nghề biên tập để khám phá; phải đối chiếu chương trình cụ thể, không phải mô tả chuẩn áp dụng cho mọi trường."
+    },
+    {
+      "id": "7340409",
+      "name": "Quản lý dự án",
+      "overview": "Tập trung tổ chức dự án từ mục tiêu, phạm vi, nguồn lực, tiến độ đến theo dõi và xử lý thay đổi.",
+      "programQuestion": "Dự án thuộc lĩnh vực nào; có thực hành lập kế hoạch, ngân sách và quản lý rủi ro không?",
+      "source": "Mô tả khái quát do Nhìn Nghề biên tập để khám phá; phải đối chiếu chương trình cụ thể, không phải mô tả chuẩn áp dụng cho mọi trường."
+    },
+    {
+      "id": "7340410",
+      "name": "Quản trị công nghệ truyền thông",
+      "overview": "Kết hợp quản trị với công nghệ, quy trình sản xuất và kinh doanh sản phẩm truyền thông.",
+      "programQuestion": "Thiên về quản lý sản xuất, kinh doanh nội dung hay kỹ thuật; có thực hành sản phẩm nghe nhìn nào?",
+      "source": "Mô tả khái quát do Nhìn Nghề biên tập để khám phá; phải đối chiếu chương trình cụ thể, không phải mô tả chuẩn áp dụng cho mọi trường."
+    },
+    {
+      "id": "7340412",
+      "name": "Quản trị sự kiện",
+      "overview": "Tập trung thiết kế, lập kế hoạch và phối hợp triển khai sự kiện theo mục tiêu, nguồn lực và trải nghiệm người tham dự.",
+      "programQuestion": "Có thực hành dự toán, kịch bản vận hành và xử lý rủi ro; khác hoạt động truyền thông ở đâu?",
+      "source": "Mô tả khái quát do Nhìn Nghề biên tập để khám phá; phải đối chiếu chương trình cụ thể, không phải mô tả chuẩn áp dụng cho mọi trường."
+    },
+    {
+      "id": "7510601",
+      "name": "Quản lý công nghiệp",
+      "overview": "Tìm hiểu tổ chức và cải thiện hoạt động trong môi trường sản xuất công nghiệp, kết nối quản lý với nền tảng kỹ thuật.",
+      "programQuestion": "Tỷ trọng kỹ thuật, sản xuất, chất lượng và quản trị vận hành ra sao?",
+      "source": "Mô tả khái quát do Nhìn Nghề biên tập để khám phá; phải đối chiếu chương trình cụ thể, không phải mô tả chuẩn áp dụng cho mọi trường."
+    },
+    {
+      "id": "7510602",
+      "name": "Quản lý năng lượng",
+      "overview": "Tập trung phân tích, tổ chức và sử dụng năng lượng hiệu quả, gắn yếu tố kỹ thuật với quản lý và kinh tế.",
+      "programQuestion": "Cần nền toán, vật lý và kỹ thuật đến đâu; học về hệ thống năng lượng và đánh giá hiệu quả thế nào?",
+      "source": "Mô tả khái quát do Nhìn Nghề biên tập để khám phá; phải đối chiếu chương trình cụ thể, không phải mô tả chuẩn áp dụng cho mọi trường."
+    },
+    {
+      "id": "7510605",
+      "name": "Logistics và Quản lý chuỗi cung ứng",
+      "overview": "Tìm hiểu hoạch định và phối hợp dòng hàng, thông tin, nguồn cung, tồn kho và giao nhận trong chuỗi cung ứng.",
+      "programQuestion": "Thiên về logistics, hoạch định, mua hàng hay phân tích chuỗi; có thực hành hệ thống và dữ liệu gì?",
+      "source": "Mô tả khái quát do Nhìn Nghề biên tập để khám phá; phải đối chiếu chương trình cụ thể, không phải mô tả chuẩn áp dụng cho mọi trường."
+    },
+    {
+      "id": "7580301",
+      "name": "Kinh tế xây dựng",
+      "overview": "Kết nối kinh tế với hoạt động xây dựng, tập trung chi phí, dự toán và hiệu quả của dự án, công trình.",
+      "programQuestion": "Nền tảng kỹ thuật xây dựng, đo bóc khối lượng và quản lý chi phí được học đến đâu?",
+      "source": "Mô tả khái quát do Nhìn Nghề biên tập để khám phá; phải đối chiếu chương trình cụ thể, không phải mô tả chuẩn áp dụng cho mọi trường."
+    },
+    {
+      "id": "7580302",
+      "name": "Quản lý xây dựng",
+      "overview": "Tập trung tổ chức và quản lý quá trình xây dựng theo yêu cầu về tiến độ, nguồn lực, chất lượng và chi phí.",
+      "programQuestion": "Có học kỹ thuật công trình và quản lý thực hiện dự án ra sao; khác Kinh tế xây dựng ở đâu?",
+      "source": "Mô tả khái quát do Nhìn Nghề biên tập để khám phá; phải đối chiếu chương trình cụ thể, không phải mô tả chuẩn áp dụng cho mọi trường."
+    },
+    {
+      "id": "7620114",
+      "name": "Kinh doanh nông nghiệp",
+      "overview": "Tập trung hoạt động kinh doanh trong lĩnh vực nông nghiệp, từ thị trường, nguồn cung đến tổ chức chuỗi giá trị.",
+      "programQuestion": "Thiên về doanh nghiệp nông nghiệp, thương mại hay chuỗi giá trị; có trải nghiệm thực tế nào?",
+      "source": "Mô tả khái quát do Nhìn Nghề biên tập để khám phá; phải đối chiếu chương trình cụ thể, không phải mô tả chuẩn áp dụng cho mọi trường."
+    },
+    {
+      "id": "7620115",
+      "name": "Kinh tế nông nghiệp",
+      "overview": "Vận dụng kinh tế học để phân tích sản xuất, thị trường, nguồn lực và chính sách trong nông nghiệp.",
+      "programQuestion": "Nội dung kinh tế, định lượng và bối cảnh nông nghiệp được kết hợp như thế nào?",
+      "source": "Mô tả khái quát do Nhìn Nghề biên tập để khám phá; phải đối chiếu chương trình cụ thể, không phải mô tả chuẩn áp dụng cho mọi trường."
+    },
+    {
+      "id": "7810101",
+      "name": "Du lịch",
+      "overview": "Tìm hiểu du lịch như một lĩnh vực hoạt động gắn với tài nguyên, điểm đến, văn hóa và nhu cầu trải nghiệm.",
+      "programQuestion": "Chương trình thiên về nghiên cứu, điểm đến, sản phẩm hay dịch vụ; có nội dung vận hành lữ hành không?",
+      "source": "Mô tả khái quát do Nhìn Nghề biên tập để khám phá; phải đối chiếu chương trình cụ thể, không phải mô tả chuẩn áp dụng cho mọi trường."
+    },
+    {
+      "id": "7810103",
+      "name": "Quản trị dịch vụ du lịch và lữ hành",
+      "overview": "Tập trung quản trị dịch vụ và hoạt động lữ hành: sản phẩm chuyến đi, bán dịch vụ và điều phối thực hiện.",
+      "programQuestion": "Có thực hành thiết kế, tính giá, điều hành và xử lý thay đổi hành trình ra sao?",
+      "source": "Mô tả khái quát do Nhìn Nghề biên tập để khám phá; phải đối chiếu chương trình cụ thể, không phải mô tả chuẩn áp dụng cho mọi trường."
+    },
+    {
+      "id": "7810201",
+      "name": "Quản trị khách sạn",
+      "overview": "Tìm hiểu quản trị cơ sở lưu trú, chất lượng dịch vụ và phối hợp các bộ phận trong khách sạn.",
+      "programQuestion": "Thực hành lễ tân, buồng phòng, doanh thu và vận hành được tổ chức thế nào; có ngoại ngữ nghề không?",
+      "source": "Mô tả khái quát do Nhìn Nghề biên tập để khám phá; phải đối chiếu chương trình cụ thể, không phải mô tả chuẩn áp dụng cho mọi trường."
+    },
+    {
+      "id": "7810202",
+      "name": "Quản trị nhà hàng và dịch vụ ăn uống",
+      "overview": "Tập trung quản trị hoạt động nhà hàng, phục vụ ăn uống và phối hợp nguồn lực để bảo đảm trải nghiệm, hiệu quả.",
+      "programQuestion": "Tỷ trọng quản trị, nghiệp vụ phục vụ, chi phí và nền tảng an toàn thực phẩm như thế nào?",
+      "source": "Mô tả khái quát do Nhìn Nghề biên tập để khám phá; phải đối chiếu chương trình cụ thể, không phải mô tả chuẩn áp dụng cho mọi trường."
+    },
+    {
+      "id": "7810301",
+      "name": "Quản lý thể dục thể thao",
+      "overview": "Tập trung tổ chức và quản lý hoạt động, đơn vị, cơ sở hoặc dịch vụ thể dục thể thao.",
+      "programQuestion": "Có yêu cầu thể chất, nội dung chuyên môn thể thao và thực hành quản lý nào; khác Kinh tế thể thao ra sao?",
+      "source": "Mô tả khái quát do Nhìn Nghề biên tập để khám phá; phải đối chiếu chương trình cụ thể, không phải mô tả chuẩn áp dụng cho mọi trường."
+    },
+    {
+      "id": "7840104",
+      "name": "Kinh tế vận tải",
+      "overview": "Vận dụng kinh tế và quản lý vào hoạt động vận tải, khai thác dịch vụ và sử dụng nguồn lực vận chuyển.",
+      "programQuestion": "Chương trình thiên về hàng không, đường bộ, đường biển hay logistics; có học khai thác và tính chi phí không?",
+      "source": "Mô tả khái quát do Nhìn Nghề biên tập để khám phá; phải đối chiếu chương trình cụ thể, không phải mô tả chuẩn áp dụng cho mọi trường."
+    },
+    {
+      "id": "7850101",
+      "name": "Quản lý tài nguyên và môi trường",
+      "overview": "Tập trung quản lý tài nguyên, theo dõi môi trường và tổ chức các hoạt động bảo vệ, sử dụng bền vững.",
+      "programQuestion": "Cần nền tảng khoa học tự nhiên, kỹ thuật và quản lý đến đâu; có thực hành quan trắc hoặc dữ liệu không?",
+      "source": "Mô tả khái quát do Nhìn Nghề biên tập để khám phá; phải đối chiếu chương trình cụ thể, không phải mô tả chuẩn áp dụng cho mọi trường."
+    },
+    {
+      "id": "7850102",
+      "name": "Kinh tế tài nguyên thiên nhiên",
+      "overview": "Nhìn việc sử dụng tài nguyên từ góc độ kinh tế: giá trị, chi phí, khuyến khích và các lựa chọn chính sách.",
+      "programQuestion": "Có đào sâu định giá, phân tích chính sách và phương pháp định lượng với những loại tài nguyên nào?",
+      "source": "Mô tả khái quát do Nhìn Nghề biên tập để khám phá; phải đối chiếu chương trình cụ thể, không phải mô tả chuẩn áp dụng cho mọi trường."
+    },
+    {
+      "id": "7850103",
+      "name": "Quản lý đất đai",
+      "overview": "Tập trung quản lý, thông tin, quy hoạch và sử dụng đất, kết hợp nội dung quản lý với nền tảng kỹ thuật liên quan.",
+      "programQuestion": "Có học đo đạc, bản đồ, dữ liệu đất đai và quy hoạch đến đâu; yêu cầu thực hành như thế nào?",
+      "source": "Mô tả khái quát do Nhìn Nghề biên tập để khám phá; phải đối chiếu chương trình cụ thể, không phải mô tả chuẩn áp dụng cho mọi trường."
+    },
+    {
+      "id": "7460108",
+      "name": "Khoa học dữ liệu",
+      "overview": "Tập trung dùng toán, thống kê, lập trình và dữ liệu để xây dựng phân tích, mô hình và đánh giá kết quả.",
+      "programQuestion": "Mức độ toán, lập trình, học máy và kiểm định mô hình ra sao; khác phân tích báo cáo kinh doanh ở đâu?",
+      "source": "Mô tả khái quát do Nhìn Nghề biên tập để khám phá; phải đối chiếu chương trình cụ thể, không phải mô tả chuẩn áp dụng cho mọi trường."
+    },
+    {
+      "id": "7480107",
+      "name": "Trí tuệ nhân tạo",
+      "overview": "Tập trung phương pháp và hệ thống trí tuệ nhân tạo, từ nền tảng tính toán đến xây dựng, đánh giá ứng dụng.",
+      "programQuestion": "Yêu cầu toán, lập trình, dữ liệu và kỹ thuật triển khai là gì; có dự án nào phải tự thực hiện?",
+      "source": "Mô tả khái quát do Nhìn Nghề biên tập để khám phá; phải đối chiếu chương trình cụ thể, không phải mô tả chuẩn áp dụng cho mọi trường."
+    },
+    {
+      "id": "7480201",
+      "name": "Công nghệ thông tin",
+      "overview": "Tìm hiểu phát triển, vận hành và ứng dụng công nghệ tính toán, phần mềm, dữ liệu và hệ thống thông tin.",
+      "programQuestion": "Có những hướng kỹ thuật nào; chương trình phân bổ lập trình, hệ thống và dự án ra sao?",
+      "source": "Mô tả khái quát do Nhìn Nghề biên tập để khám phá; phải đối chiếu chương trình cụ thể, không phải mô tả chuẩn áp dụng cho mọi trường."
+    },
+    {
+      "id": "7480104",
+      "name": "Hệ thống thông tin",
+      "overview": "Tập trung thiết kế, xây dựng và khai thác hệ thống để tổ chức, xử lý và cung cấp thông tin.",
+      "programQuestion": "Nền tảng kỹ thuật, dữ liệu và phát triển hệ thống sâu đến đâu; khác Hệ thống thông tin quản lý ở đâu?",
+      "source": "Mô tả khái quát do Nhìn Nghề biên tập để khám phá; phải đối chiếu chương trình cụ thể, không phải mô tả chuẩn áp dụng cho mọi trường."
+    }
+  ],
+  "schools": [
+    {
+      "id": "NEU",
+      "name": "Đại học Kinh tế Quốc dân",
+      "region": "Bắc",
+      "location": "Hà Nội",
+      "url": "https://tuyensinh.neu.edu.vn/",
+      "sourceLabel": "Hệ sinh thái tuyển sinh NEU",
+      "checked": "16/11/2026",
+      "verificationScope": "Chỉ kiểm tra nguồn liên kết, không xác minh tuyển sinh từng ngành hoặc năm 2027."
+    },
+    {
+      "id": "UEH",
+      "name": "Đại học Kinh tế Thành phố Hồ Chí Minh",
+      "region": "Nam",
+      "location": "TP. Hồ Chí Minh; xem cơ sở tại nguồn",
+      "url": "https://tuyensinh.ueh.edu.vn/",
+      "sourceLabel": "Cổng tuyển sinh UEH",
+      "checked": "16/11/2026",
+      "verificationScope": "Chỉ kiểm tra nguồn liên kết, không xác minh tuyển sinh từng ngành hoặc năm 2027."
+    },
+    {
+      "id": "UEL",
+      "name": "Trường Đại học Kinh tế – Luật – Đại học Quốc gia TP. Hồ Chí Minh",
+      "region": "Nam",
+      "location": "TP. Hồ Chí Minh",
+      "url": "https://tuyensinh.uel.edu.vn/dao-tao/dai-hoc-chinh-quy/",
+      "sourceLabel": "Danh mục đại học chính quy của UEL",
+      "checked": "16/11/2026",
+      "verificationScope": "Chỉ kiểm tra nguồn liên kết, không xác minh tuyển sinh từng ngành hoặc năm 2027."
+    },
+    {
+      "id": "UEF",
+      "name": "Trường Đại học Kinh tế – Tài chính Thành phố Hồ Chí Minh",
+      "region": "Nam",
+      "location": "TP. Hồ Chí Minh",
+      "url": "https://www.uef.edu.vn/tin-tuyen-sinh/uef-cong-bo-thong-tin-tuyen-sinh-nam-2026-33917",
+      "sourceLabel": "Nguồn chương trình đã kiểm của cụm đầu tiên",
+      "checked": "16/11/2026",
+      "verificationScope": "Phạm vi theo từng chương trình và năm tại mục Học ở đâu / Vào bằng cách nào."
+    },
+    {
+      "id": "RMIT",
+      "name": "Đại học RMIT Việt Nam",
+      "region": "Bắc",
+      "location": "Hà Nội / Nam Sài Gòn · kiểm tra cơ sở của kỳ dự tuyển",
+      "url": "https://www.rmit.edu.vn/vi/hoc-tap-tai-rmit/chuong-trinh-cu-nhan/cu-nhan-kinh-doanh",
+      "sourceLabel": "Nguồn chương trình đã kiểm của cụm đầu tiên",
+      "checked": "16/11/2026",
+      "verificationScope": "Phạm vi theo từng chương trình và năm tại mục Học ở đâu / Vào bằng cách nào."
+    }
+  ]
+}

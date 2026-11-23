@@ -1,0 +1,297 @@
+{
+  "exported": "2026-11-19",
+  "site_version": 20,
+  "source_commit": "3c60b6d9001c8cc8b0f53340b1c262f7593e11e9",
+  "source_files": [
+    {
+      "path": "dist/about.css",
+      "sha256": "dda0d574a3efc635507e856a355f80e994ce7ec05917f7bd725845e076bccad0",
+      "bytes": 3962
+    },
+    {
+      "path": "dist/activities.css",
+      "sha256": "836cbd5e20d5ef01553af92388764876e25f89a01efcc51c4e7238134cecd2de",
+      "bytes": 6505
+    },
+    {
+      "path": "dist/app.js",
+      "sha256": "14ffde89b72cfc2b368ed80b4c840c2804ca4a8ea366065353515363508edb6e",
+      "bytes": 952
+    },
+    {
+      "path": "dist/assets/OFL_Nunito.txt",
+      "sha256": "580df76c95a1ec5ab878ceb25bb3d85c6a076804e9c970c8c6972aea775fdf65",
+      "bytes": 4385
+    },
+    {
+      "path": "dist/assets/logo.svg",
+      "sha256": "ccf520054e2be78425208dc0ba45c302958fb2d3dd05ec598359266c280ff368",
+      "bytes": 5413
+    },
+    {
+      "path": "dist/assets/nunito.ttf",
+      "sha256": "bb55a5ca5c2042335b3991af27c4d0705d0ef41cac6164ac737fd8f2a1e85207",
+      "bytes": 276932
+    },
+    {
+      "path": "dist/base.css",
+      "sha256": "232335739e993493c1f70430366a8e4fd48dc2794787b5f0e7b40332fde310d0",
+      "bytes": 3113
+    },
+    {
+      "path": "dist/book-refined.css",
+      "sha256": "f01961294b84f1595e91663f1303cf7fb55b44e6c9fc8fb8af6fe7a76dde835b",
+      "bytes": 4767
+    },
+    {
+      "path": "dist/book.css",
+      "sha256": "b3cf6ff6ba1a9de82d75580030b583fdf8cae13e285f35d01281b798dddf550c",
+      "bytes": 8794
+    },
+    {
+      "path": "dist/book.js",
+      "sha256": "624a5d29f88e877160d7008d553a5ae5199edf2bb4d20ea910811a13258f722c",
+      "bytes": 305
+    },
+    {
+      "path": "dist/career-articles.json",
+      "sha256": "a181adb3d5f42da2416939676e6ff2224efc4ae636929fa9de550a72274b5484",
+      "bytes": 1942
+    },
+    {
+      "path": "dist/career-reading.css",
+      "sha256": "b5200cc986a788358c7464b82c10eefd285eab88348ec9053d705a8d527bcabc",
+      "bytes": 5242
+    },
+    {
+      "path": "dist/career-sample.css",
+      "sha256": "1943108a5d0ef60548cff29fc3fbb3ee3b20f2170b408d6309cacc81fb3f33ac",
+      "bytes": 3828
+    },
+    {
+      "path": "dist/events-public.json",
+      "sha256": "42eaab05c776910df443f4a9e8769fa6af8233d92b6288580b0d2fb699f2ff65",
+      "bytes": 5646
+    },
+    {
+      "path": "dist/events-refined.css",
+      "sha256": "e7006e57db0cecf80742d047bf236976e9e0b108bd95bd4a1e97e7e7b1fe1fef",
+      "bytes": 5864
+    },
+    {
+      "path": "dist/extension.css",
+      "sha256": "d16804fc9bc1acc4466215de52fa97c0ef13af5a72fa46afcd30cc9e3f79f625",
+      "bytes": 9647
+    },
+    {
+      "path": "dist/goc-nghe-nghiep/diem-xuat-phat/index.html",
+      "sha256": "25f11d3138bfe3862a69741aaecc42e65e9f5896a50bfc476cf661fadc058d80",
+      "bytes": 10869
+    },
+    {
+      "path": "dist/goc-nghe-nghiep/index.html",
+      "sha256": "db47c2bd012f22f75d9f0b1ee80adf2cba8aba3e7ff1298dc4c71715227f1003",
+      "bytes": 7294
+    },
+    {
+      "path": "dist/goc-nghe-nghiep/minh-chung-tien-bo/index.html",
+      "sha256": "49f92788a73e067ae4c38fa9df1f0f77467bd9eb903312f41de40f7463e223cc",
+      "bytes": 10448
+    },
+    {
+      "path": "dist/goc-nghe-nghiep/nhin-nghe-tu-cong-viec/index.html",
+      "sha256": "4a6fce68272d02c3a7d8fa7da0206f50dc2812e8bfd03580b608d6566a9a7c9f",
+      "bytes": 10153
+    },
+    {
+      "path": "dist/hoat-dong/chia-se-nghe-nghiep/index.html",
+      "sha256": "d9cc93947fd2eed3e4f5d719ea48fa66424f997f84c25b68f2954b0479a260b9",
+      "bytes": 10224
+    },
+    {
+      "path": "dist/hoat-dong/chia-se-nghe-nghiep/lop-10-11-thang-1-2027/index.html",
+      "sha256": "627aa46c0f980aacca3f8d1ae0b8fbe52889f1ee860e946fbee6ee9fc725b775",
+      "bytes": 9099
+    },
+    {
+      "path": "dist/hoat-dong/chia-se-nghe-nghiep/lop-12-thang-12-2026/index.html",
+      "sha256": "9d9e316f9c2562088de60490e673b6321f8f32c2c22f7c2adafee35004844670",
+      "bytes": 9046
+    },
+    {
+      "path": "dist/hoat-dong/hieu-nghe/index.html",
+      "sha256": "fdb67d2815e62978210f6432853ddd11c9a97e3d31ddccb2453c6591af860547",
+      "bytes": 531
+    },
+    {
+      "path": "dist/hoat-dong/index.html",
+      "sha256": "b14b0e5b97bb317b8c8abfca6944a15545d48a5c3fe6e1ac29f37c0ae3f52a81",
+      "bytes": 8256
+    },
+    {
+      "path": "dist/hoc-sinh/ho-so-mau/quan-ly-du-an-van-hanh/index.html",
+      "sha256": "87cbc2643d5bc806ab3a2c616e8e396093fea5126337e30d163f1c2d564881fa",
+      "bytes": 16220
+    },
+    {
+      "path": "dist/hoc-sinh/index.html",
+      "sha256": "0f3bdfa51c783959578e8b7612337927f58a449c24b46c49d2ee320a4dbf6260",
+      "bytes": 19868
+    },
+    {
+      "path": "dist/home-refined.css",
+      "sha256": "302c05e631324a4ca89402edad59ac40721f9da37c9a85771a09af8b113d365b",
+      "bytes": 4840
+    },
+    {
+      "path": "dist/index.html",
+      "sha256": "8325b7e6b7391a42b4b8c96fe0fa145a3cb6445ffbb878ea13c912d6c663cc76",
+      "bytes": 12603
+    },
+    {
+      "path": "dist/journey.css",
+      "sha256": "caefe2102dcab9186424a56d541bf1fdcd2e6c322b1fc006c762e5194c82c75f",
+      "bytes": 14386
+    },
+    {
+      "path": "dist/journey.js",
+      "sha256": "7eb6b0d89dad1f3eefbe2f4dc0a4d14f2de600cc04d6db05d8e277982c7890e8",
+      "bytes": 313
+    },
+    {
+      "path": "dist/quyen-rieng-tu/index.html",
+      "sha256": "413ebcc9d86b9e23778605a5a6a630725acab32383e94f0925c01e8be808153c",
+      "bytes": 6274
+    },
+    {
+      "path": "dist/review.html",
+      "sha256": "55d821f337ed5b13f41b33d5289ddbca27b6a9680019e0e4378e7582c12eee10",
+      "bytes": 3031
+    },
+    {
+      "path": "dist/sach/index.html",
+      "sha256": "476704fea2f187519fe3f05e7a15db981a176a1fe8d5980d4e3ad4ce989ec72e",
+      "bytes": 18292
+    },
+    {
+      "path": "dist/school-programs.css",
+      "sha256": "92508607c0cbd25f10caf5d3ac0fc459ca4945cdced3cf26589352b9c552ccfe",
+      "bytes": 3494
+    },
+    {
+      "path": "dist/school-programs.json",
+      "sha256": "dd6a6c68c23c123d9aaf55dfd5955f70ef6257c446365d95366ac47870900119",
+      "bytes": 8539
+    },
+    {
+      "path": "dist/school-public-data.json",
+      "sha256": "7310f24e6a3c37d1252773b307e3eef7c3eb61ac6bddc1a614a8ede8437be1a0",
+      "bytes": 88233
+    },
+    {
+      "path": "dist/school-public.css",
+      "sha256": "73ac53a7f8862149755a56f2ebde8d402291f098a14d8c634380eff74eb2c9f9",
+      "bytes": 8777
+    },
+    {
+      "path": "dist/school-public.js",
+      "sha256": "2f690b22ae48f484677688fffbdfa8625ca1136e80da9ddabf6bc421de48167f",
+      "bytes": 21747
+    },
+    {
+      "path": "dist/school-refined.css",
+      "sha256": "a9d7d9dcc99974c9f193f69ff5698eeaf20d873542f8dff2d2b0503d277b98e7",
+      "bytes": 5877
+    },
+    {
+      "path": "dist/sinh-vien/index.html",
+      "sha256": "ea40a30dd393380b98cbfe8a1365cb8e0e43ab212187d2845a7b03cbec29cf18",
+      "bytes": 7961
+    },
+    {
+      "path": "dist/sinh-vien/lo-trinh/index.html",
+      "sha256": "99f30dd008400e74b8f3fe939c3cb560e81b294dcd060a6670185fe5939d0188",
+      "bytes": 10509
+    },
+    {
+      "path": "dist/sinh-vien/phan-tich-du-lieu/index.html",
+      "sha256": "ea8bd2d18e187b3cd3e301aa234eadeed88c3f8d6577489e70843d2f3c0ca4fe",
+      "bytes": 11681
+    },
+    {
+      "path": "dist/sinh-vien/phat-trien-nang-luc/index.html",
+      "sha256": "677ec908bea127d6ab65cc23e31dfd42f93f4c0a60ac55027264a60a81a9d2c9",
+      "bytes": 13023
+    },
+    {
+      "path": "dist/site-common.css",
+      "sha256": "a35b99610d6e31fcde5e233c2eda75948531bc41b30348d52128bab1cd256bca",
+      "bytes": 2782
+    },
+    {
+      "path": "dist/site-public.json",
+      "sha256": "08e77934692615cc3db7330fb03360d91024016f1fb92b56c1c5217290562146",
+      "bytes": 956
+    },
+    {
+      "path": "dist/student-programs.json",
+      "sha256": "9abe3d65c84553c3a3b2371060df7628af6ed6cf163f0c27a96ea829a67855ac",
+      "bytes": 691
+    },
+    {
+      "path": "dist/student-refined.css",
+      "sha256": "4137282c898a610f393c1426b97bb3993011cc59e03df2d129fb236c060c0e91",
+      "bytes": 7330
+    },
+    {
+      "path": "dist/ve-nhin-nghe/index.html",
+      "sha256": "3ccd5d7d38b3a2f1761b6dd2f435e3de94775503dd08e11a91584eb64f7803e2",
+      "bytes": 10622
+    },
+    {
+      "path": "dist/ve-nhin-nghe/vi-sao-nhin-nghe/index.html",
+      "sha256": "cbcbaf74c9e0bc68372e0ce997bf4590b6afea39e3f5f825d6658d282677f6a2",
+      "bytes": 8836
+    },
+    {
+      "path": "content/IMPLEMENTATION.md",
+      "sha256": "a82e6c44cec3aad5565a60fffc96a1e99b4a6891f79cccb38c625987080ffb08",
+      "bytes": 7807
+    },
+    {
+      "path": "content/activities-copy.json",
+      "sha256": "c4ad210ba9d617ba9c776ac74c9611f0e8f3c4cca9fe59fa154004de74c637f2",
+      "bytes": 4569
+    },
+    {
+      "path": "content/activities.json",
+      "sha256": "7f30e9a5d1d326788f95339d9667eaa368949242fcbf6aafac0e18f0ddc1af28",
+      "bytes": 8579
+    },
+    {
+      "path": "content/home.html",
+      "sha256": "d76971b2388f78c18d27cf8dd1c7c2bd57b71fe063c093b699576dc088b0fce6",
+      "bytes": 6110
+    },
+    {
+      "path": "content/privacy.html",
+      "sha256": "febc1d05027494d81828879ae1d85d9a3caf1b9b890de62a577491ea1874e031",
+      "bytes": 1914
+    },
+    {
+      "path": "content/site.json",
+      "sha256": "08e77934692615cc3db7330fb03360d91024016f1fb92b56c1c5217290562146",
+      "bytes": 956
+    },
+    {
+      "path": "scripts/build-activities.py",
+      "sha256": "94fdb9265ceb4279e48f54109a43e880a0445f0e573f88d1b1a96612779d5b0e",
+      "bytes": 11662
+    },
+    {
+      "path": "scripts/build-home-common.py",
+      "sha256": "a1c9041c94d09a05cc72968f30b0e68eee93b879ada7c06b60d9a5076b5b8e5c",
+      "bytes": 9651
+    }
+  ]
+}

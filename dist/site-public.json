@@ -1,0 +1,34 @@
+{
+  "brand": {
+    "name": "Nhìn Nghề",
+    "domain": "nhinnghe.vn",
+    "tagline": "Hiểu nghề · Xây lộ trình · Phát triển năng lực",
+    "scope": "Kinh tế và kinh doanh",
+    "emails": [
+      "nhinnghe.vn@gmail.com"
+    ],
+    "facebook": "https://www.facebook.com/profile.php?id=61596779991253"
+  },
+  "navigation": [
+    [
+      "Học sinh & Phụ huynh",
+      "/hoc-sinh/"
+    ],
+    [
+      "Sinh viên",
+      "/sinh-vien/"
+    ],
+    [
+      "Giới thiệu sách",
+      "/sach/"
+    ],
+    [
+      "Góc nghề nghiệp",
+      "/goc-nghe-nghiep/"
+    ],
+    [
+      "Về Nhìn Nghề",
+      "/ve-nhin-nghe/"
+    ]
+  ]
+}

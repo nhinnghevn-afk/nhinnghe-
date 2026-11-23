@@ -1,0 +1,176 @@
+{
+  "edition": "public-cluster-1",
+  "checked": "16/11/2026",
+  "clusterMajor": "7340101",
+  "clusterName": "Quản trị kinh doanh và các chương trình trong cụm kinh doanh",
+  "schools": [
+    {
+      "id": "NEU",
+      "name": "Đại học Kinh tế Quốc dân",
+      "label": "Công lập",
+      "regions": [
+        "Bắc"
+      ],
+      "location": "Hà Nội"
+    },
+    {
+      "id": "UEF",
+      "name": "Trường Đại học Kinh tế – Tài chính Thành phố Hồ Chí Minh",
+      "label": "Tư thục",
+      "regions": [
+        "Nam"
+      ],
+      "location": "TP. Hồ Chí Minh"
+    },
+    {
+      "id": "RMIT",
+      "name": "Đại học RMIT Việt Nam",
+      "label": "Chương trình quốc tế · văn bằng RMIT",
+      "regions": [
+        "Bắc",
+        "Nam"
+      ],
+      "location": "Hà Nội / Nam Sài Gòn · kiểm tra cơ sở của kỳ dự tuyển"
+    }
+  ],
+  "policies": {
+    "NEU": {
+      "year": 2026,
+      "yearLabel": "Nguồn 2026 · tham khảo",
+      "intro": "Thông tin tuyển sinh đại học chính quy năm 2026 nêu ba nhóm phương thức:",
+      "methods": [
+        "Tuyển thẳng theo quy định.",
+        "Xét kết quả thi tốt nghiệp THPT.",
+        "Xét tuyển kết hợp; từng nhóm có điều kiện riêng về chứng chỉ hoặc kết quả thi đánh giá năng lực, đánh giá tư duy."
+      ],
+      "check": "Đọc điều kiện của từng đối tượng, tổ hợp, cách quy đổi và hồ sơ trong thông báo của trường. Thông tin 2026 dùng để tham khảo, chưa phải thông báo tuyển sinh 2027.",
+      "locator": "Mục 2.2–2.3 và danh mục ngành/chương trình tại mục 4."
+    },
+    "UEF": {
+      "year": 2026,
+      "yearLabel": "Nguồn 2026 · tham khảo",
+      "intro": "Thông tin tuyển sinh năm 2026 công bố bốn phương thức:",
+      "methods": [
+        "Xét kết quả thi tốt nghiệp THPT.",
+        "Xét học bạ THPT sáu học kỳ.",
+        "Xét kết quả thi đánh giá năng lực của ĐHQG TP. Hồ Chí Minh.",
+        "Xét kết quả kỳ thi V-SAT."
+      ],
+      "check": "Đọc điều kiện, ngưỡng nhận hồ sơ, cách tính điểm và thời hạn tại nguồn trường. Ngưỡng nhận hồ sơ không phải điểm trúng tuyển. Thông tin 2026 chưa áp dụng mặc định cho 2027.",
+      "locator": "Bảng ngành/chương trình và phần phương thức tuyển sinh năm 2026."
+    },
+    "RMIT": {
+      "year": 2027,
+      "yearLabel": "Trang chương trình · lịch nhập học 2027",
+      "intro": "Trang Cử nhân Kinh doanh BP343 đang hiển thị các kỳ nhập học năm 2027 và điều kiện tuyển sinh hiện hành:",
+      "methods": [
+        "Tốt nghiệp THPT; điểm trung bình lớp 12 từ 7,0/10.",
+        "Đáp ứng yêu cầu tiếng Anh. Một lựa chọn là IELTS Academic 6,5, không kỹ năng nào dưới 6,0; các lựa chọn khác xem tại nguồn trường."
+      ],
+      "check": "Kiểm tra lại cơ sở, kỳ nhập học, thời hạn, hồ sơ và yêu cầu tiếng Anh trước khi nộp. Năm 2027 ở đây là năm của lịch kỳ nhập học trên trang; không đồng nghĩa đang nhận hồ sơ cho mọi kỳ.",
+      "locator": "Mã BP343, mục kỳ nhập học và Điều kiện tuyển sinh."
+    }
+  },
+  "programs": [
+    {
+      "id": "neu-7340101",
+      "school": "NEU",
+      "name": "Quản trị kinh doanh",
+      "code": "7340101",
+      "year": 2026,
+      "source": "https://neu.edu.vn/wp-content/uploads/2026/03/Thong-tin-TS-nam-2026-hinh-thuc-dao-tao-DHCQ.pdf",
+      "relation": "Lựa chọn Quản trị kinh doanh",
+      "note": "Đọc đúng tên, mã và loại chương trình trong thông báo của trường."
+    },
+    {
+      "id": "neu-ebba",
+      "school": "NEU",
+      "name": "Quản trị kinh doanh (E-BBA)",
+      "code": "EBBA",
+      "year": 2026,
+      "source": "https://neu.edu.vn/wp-content/uploads/2026/03/Thong-tin-TS-nam-2026-hinh-thuc-dao-tao-DHCQ.pdf",
+      "relation": "Lựa chọn Quản trị kinh doanh",
+      "note": "Đọc đúng tên, mã và loại chương trình trong thông báo của trường."
+    },
+    {
+      "id": "neu-ep06",
+      "school": "NEU",
+      "name": "Phân tích kinh doanh (BA)",
+      "code": "EP06",
+      "year": 2026,
+      "source": "https://neu.edu.vn/wp-content/uploads/2026/03/Thong-tin-TS-nam-2026-hinh-thuc-dao-tao-DHCQ.pdf",
+      "relation": "Chương trình kinh doanh liên quan",
+      "note": "Có tên và mã tuyển sinh riêng. Không coi mọi chương trình trong cụm này là cùng ngành Quản trị kinh doanh; hãy đọc nội dung đào tạo tại nguồn trường."
+    },
+    {
+      "id": "neu-ep05",
+      "school": "NEU",
+      "name": "Kinh doanh số (E-BDB)",
+      "code": "EP05",
+      "year": 2026,
+      "source": "https://neu.edu.vn/wp-content/uploads/2026/03/Thong-tin-TS-nam-2026-hinh-thuc-dao-tao-DHCQ.pdf",
+      "relation": "Chương trình kinh doanh liên quan",
+      "note": "Có tên và mã tuyển sinh riêng. Không coi mọi chương trình trong cụm này là cùng ngành Quản trị kinh doanh; hãy đọc nội dung đào tạo tại nguồn trường."
+    },
+    {
+      "id": "neu-ep07",
+      "school": "NEU",
+      "name": "Quản trị điều hành thông minh (E-SOM)",
+      "code": "EP07",
+      "year": 2026,
+      "source": "https://neu.edu.vn/wp-content/uploads/2026/03/Thong-tin-TS-nam-2026-hinh-thuc-dao-tao-DHCQ.pdf",
+      "relation": "Chương trình kinh doanh liên quan",
+      "note": "Có tên và mã tuyển sinh riêng. Không coi mọi chương trình trong cụm này là cùng ngành Quản trị kinh doanh; hãy đọc nội dung đào tạo tại nguồn trường."
+    },
+    {
+      "id": "neu-ep08",
+      "school": "NEU",
+      "name": "Quản trị chất lượng và đổi mới (E-MQI)",
+      "code": "EP08",
+      "year": 2026,
+      "source": "https://neu.edu.vn/wp-content/uploads/2026/03/Thong-tin-TS-nam-2026-hinh-thuc-dao-tao-DHCQ.pdf",
+      "relation": "Chương trình kinh doanh liên quan",
+      "note": "Có tên và mã tuyển sinh riêng. Không coi mọi chương trình trong cụm này là cùng ngành Quản trị kinh doanh; hãy đọc nội dung đào tạo tại nguồn trường."
+    },
+    {
+      "id": "neu-ep01",
+      "school": "NEU",
+      "name": "Khởi nghiệp và phát triển kinh doanh (BBAE)",
+      "code": "EP01",
+      "year": 2026,
+      "source": "https://neu.edu.vn/wp-content/uploads/2026/03/Thong-tin-TS-nam-2026-hinh-thuc-dao-tao-DHCQ.pdf",
+      "relation": "Chương trình kinh doanh liên quan",
+      "note": "Có tên và mã tuyển sinh riêng. Không coi mọi chương trình trong cụm này là cùng ngành Quản trị kinh doanh; hãy đọc nội dung đào tạo tại nguồn trường."
+    },
+    {
+      "id": "uef-7340101",
+      "school": "UEF",
+      "name": "Quản trị kinh doanh",
+      "code": "7340101",
+      "year": 2026,
+      "source": "https://www.uef.edu.vn/tin-tuyen-sinh/uef-cong-bo-thong-tin-tuyen-sinh-nam-2026-33917",
+      "relation": "Lựa chọn Quản trị kinh doanh",
+      "note": "Đọc đúng tên, mã và loại chương trình trong thông báo của trường."
+    },
+    {
+      "id": "uef-7340101e",
+      "school": "UEF",
+      "name": "Quản trị kinh doanh (Chương trình Tài năng UEF)",
+      "code": "7340101E",
+      "year": 2026,
+      "source": "https://www.uef.edu.vn/tin-tuyen-sinh/uef-cong-bo-thong-tin-tuyen-sinh-nam-2026-33917",
+      "relation": "Lựa chọn Quản trị kinh doanh",
+      "note": "Đọc đúng tên, mã và loại chương trình trong thông báo của trường."
+    },
+    {
+      "id": "rmit-bp343",
+      "school": "RMIT",
+      "name": "Cử nhân Kinh doanh",
+      "code": "BP343",
+      "year": 2027,
+      "source": "https://www.rmit.edu.vn/vi/hoc-tap-tai-rmit/chuong-trinh-cu-nhan/cu-nhan-kinh-doanh",
+      "relation": "Chương trình quốc tế liên quan",
+      "note": "BP343 là mã chương trình RMIT, không phải mã ngành Việt Nam. Quản trị và Đổi mới doanh nghiệp, Khởi nghiệp kinh doanh là các chuyên ngành chính bên trong BP343; không phải hai bằng độc lập."
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "edition": "student-programs-public-v1",
+  "updated": "2026-11-16",
+  "programs": [
+    {
+      "id": "lo-trinh",
+      "title": "Xây dựng lộ trình nghề nghiệp",
+      "path": "/sinh-vien/lo-trinh/",
+      "status": "preparing",
+      "label": "Đang chuẩn bị · Chưa mở tiếp nhận",
+      "accepting": false
+    },
+    {
+      "id": "da",
+      "title": "Phân tích dữ liệu (DA)",
+      "path": "/sinh-vien/phan-tich-du-lieu/",
+      "status": "preparing-pilot",
+      "label": "Đang chuẩn bị thí điểm · Chưa mở tiếp nhận",
+      "accepting": false
+    }
+  ],
+  "careerMapSource": "/school-public-data.json",
+  "registrationEnabled": false
+}

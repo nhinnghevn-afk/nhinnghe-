@@ -1,0 +1,129 @@
+{
+  "edition": "activities-public-v1",
+  "series": {
+    "id": "chia-se-kham-pha-nghe",
+    "title": "Chia sẻ & Khám phá nghề",
+    "path": "/hoat-dong/chia-se-nghe-nghiep/",
+    "scope": "Kinh tế và kinh doanh",
+    "audiences": [
+      "Học sinh THPT",
+      "Phụ huynh",
+      "Sinh viên"
+    ],
+    "feeLabel": "Miễn phí"
+  },
+  "events": [
+    {
+      "id": "nn-thpt12-2026-12",
+      "path": "/hoat-dong/chia-se-nghe-nghiep/lop-12-thang-12-2026/",
+      "title": "Hiểu nghề để cân nhắc ngành học",
+      "audience": "Học sinh lớp 12 và phụ huynh",
+      "proposedWindow": "Tháng 12/2026",
+      "description": "Cùng nhìn công việc phía sau tên nghề, đối chiếu nền tảng ngành học và lập câu hỏi để tìm hiểu chương trình, trường.",
+      "topics": [
+        [
+          "Nhìn rõ hướng đang quan tâm",
+          "Phân biệt vấn đề, nhiệm vụ và kết quả của công việc; ghi lại điều còn muốn tìm hiểu."
+        ],
+        [
+          "Đối chiếu ngành và chương trình",
+          "Từ hướng nghề quan tâm, tìm hiểu nền tảng cần học và điều phải kiểm tra ở chương trình cụ thể."
+        ],
+        [
+          "Chọn câu hỏi cần kiểm chứng",
+          "Lập danh sách câu hỏi về chương trình, điều kiện gia đình và thông tin tuyển sinh đúng năm dự tuyển."
+        ]
+      ],
+      "intendedTakeaway": "Một danh sách câu hỏi để tiếp tục đối chiếu nghề, ngành và chương trình; một việc gia đình có thể tìm hiểu tiếp.",
+      "preparation": "Nếu muốn, hãy ghi một hướng nghề hoặc ngành đang quan tâm và một câu hỏi chưa rõ. Chưa cần gửi học bạ, điểm cá nhân hoặc hồ sơ.",
+      "example": "“Em quan tâm Marketing. Em muốn biết chương trình giúp em hiểu khách hàng và phân tích kết quả hoạt động đến đâu; em cần xem những học phần và trải nghiệm nào?”",
+      "nextRead": [
+        "/goc-nghe-nghiep/nhin-nghe-tu-cong-viec/",
+        "Đọc cách tìm hiểu công việc"
+      ],
+      "seriesId": "chia-se-kham-pha-nghe",
+      "status": "planned",
+      "statusLabel": "Dự kiến · Đăng ký sẽ thông báo sau",
+      "scheduleConfirmed": false,
+      "startsAt": null,
+      "endsAt": null,
+      "timezone": "Asia/Ho_Chi_Minh",
+      "format": null,
+      "venue": null,
+      "speakers": [],
+      "fee": {
+        "amount": 0,
+        "currency": "VND",
+        "label": "Miễn phí"
+      },
+      "registration": {
+        "enabled": false,
+        "url": null,
+        "opensAt": null,
+        "closesAt": null,
+        "capacity": null,
+        "confirmationMethod": null
+      },
+      "publicationScope": "public",
+      "resources": [],
+      "recap": null,
+      "lastEditorialDate": "2026-11-16"
+    },
+    {
+      "id": "nn-thpt1011-2027-01",
+      "path": "/hoat-dong/chia-se-nghe-nghiep/lop-10-11-thang-1-2027/",
+      "title": "Khám phá nghề sớm, chuẩn bị từng bước",
+      "audience": "Học sinh lớp 10–11 và phụ huynh",
+      "proposedWindow": "Đầu tháng 1/2027",
+      "description": "Cùng mở rộng hiểu biết về công việc và chọn một trải nghiệm nhỏ phù hợp với thời gian, điều kiện của học sinh.",
+      "topics": [
+        [
+          "Mở hướng tìm hiểu",
+          "Nhìn sự khác nhau giữa các phần việc trong kinh tế và kinh doanh; bắt đầu từ điều khiến em tò mò."
+        ],
+        [
+          "Chọn một việc nhỏ để thử",
+          "Tìm một nhiệm vụ phù hợp với giai đoạn học tập, biết mình sẽ tạo ra kết quả gì và có thể hỏi ai."
+        ],
+        [
+          "Ghi lại và cùng nhìn lại",
+          "Trao đổi với gia đình về điều đã hiểu, điều còn chưa rõ và phần việc muốn thử tiếp."
+        ]
+      ],
+      "intendedTakeaway": "Một hướng công việc muốn khám phá thêm và một việc nhỏ có thể thử, kèm câu hỏi để nhìn lại sau trải nghiệm.",
+      "preparation": "Nếu muốn, chọn một hoạt động em từng làm ở lớp, câu lạc bộ hoặc tại nhà; ghi phần em muốn tìm hiểu thêm. Chưa cần biết tên nghề hoặc chốt ngành học.",
+      "example": "“Em muốn biết người phụ trách sự kiện phối hợp công việc thế nào. Em sẽ thử lập một bảng việc cho buổi sinh hoạt lớp, rồi nhờ người có kinh nghiệm góp ý.”",
+      "nextRead": [
+        "/goc-nghe-nghiep/diem-xuat-phat/",
+        "Chọn một bước khám phá để bắt đầu"
+      ],
+      "seriesId": "chia-se-kham-pha-nghe",
+      "status": "planned",
+      "statusLabel": "Dự kiến · Đăng ký sẽ thông báo sau",
+      "scheduleConfirmed": false,
+      "startsAt": null,
+      "endsAt": null,
+      "timezone": "Asia/Ho_Chi_Minh",
+      "format": null,
+      "venue": null,
+      "speakers": [],
+      "fee": {
+        "amount": 0,
+        "currency": "VND",
+        "label": "Miễn phí"
+      },
+      "registration": {
+        "enabled": false,
+        "url": null,
+        "opensAt": null,
+        "closesAt": null,
+        "capacity": null,
+        "confirmationMethod": null
+      },
+      "publicationScope": "public",
+      "resources": [],
+      "recap": null,
+      "lastEditorialDate": "2026-11-16"
+    }
+  ]
+}

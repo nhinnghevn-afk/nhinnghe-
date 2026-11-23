@@ -1,0 +1,1 @@
+(()=>{const topLink=document.querySelector('.back-top');const update=()=>{if(topLink)topLink.hidden=window.scrollY<500;};window.addEventListener('scroll',update,{passive:true});update();document.querySelectorAll('.mobile nav a').forEach(a=>a.addEventListener('click',()=>{a.closest('details').open=false;}));})();

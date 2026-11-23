@@ -1,0 +1,41 @@
+{
+  "edition": "public-career-articles-v1",
+  "articles": [
+    {
+      "id": "diem-xuat-phat",
+      "title": "Bắt đầu từ điểm xuất phát của bạn",
+      "path": "/goc-nghe-nghiep/diem-xuat-phat/",
+      "teaser": "Chưa có hướng, đang phân vân hay đã muốn chuẩn bị? Chọn một việc vừa sức để có thêm căn cứ cho bước tiếp theo.",
+      "edited": "2026-11-16",
+      "published": null,
+      "question": "Chưa chắc hướng nghề, tuần này bạn có thể bắt đầu bằng việc gì?",
+      "audience": "Học sinh · Phụ huynh · Sinh viên",
+      "theme": "Xây lộ trình",
+      "updated": "2026-11-16"
+    },
+    {
+      "id": "nhin-nghe-tu-cong-viec",
+      "title": "Nhìn nghề từ công việc thực tế",
+      "path": "/goc-nghe-nghiep/nhin-nghe-tu-cong-viec/",
+      "teaser": "Từ tình huống đơn hàng giao chậm, tìm hiểu nhiệm vụ, kết quả và cách tự đọc một mô tả công việc.",
+      "edited": "2026-11-16",
+      "published": null,
+      "question": "Ngoài tên gọi, cần tìm hiểu những gì để hình dung một công việc?",
+      "audience": "Học sinh · Phụ huynh · Sinh viên",
+      "theme": "Hiểu nghề",
+      "updated": "2026-11-16"
+    },
+    {
+      "id": "minh-chung-tien-bo",
+      "title": "Tạo minh chứng cho sự tiến bộ",
+      "path": "/goc-nghe-nghiep/minh-chung-tien-bo/",
+      "teaser": "Chọn một sản phẩm đã làm để nhìn lại đóng góp, thay đổi sau góp ý và điều cần học tiếp.",
+      "edited": "2026-11-16",
+      "published": null,
+      "question": "Sau một bài tập hay hoạt động, làm sao biết mình đã tiến bộ ở đâu?",
+      "audience": "Sinh viên · Học sinh có trải nghiệm học tập hoặc hoạt động nhóm",
+      "theme": "Phát triển năng lực",
+      "updated": "2026-11-16"
+    }
+  ]
+}

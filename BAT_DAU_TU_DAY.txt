@@ -1,0 +1,35 @@
+NHÌN NGHỀ — BÀN GIAO ĐỂ TIẾP TỤC TRÊN CLAUDE
+Ngày xuất: 19/11/2026. Nguồn: bản xem trước phiên bản 20.
+
+Gói này gồm mã nguồn và nội dung CÔNG KHAI của website hiện tại, không phải chỉ là hình giao diện.
+
+CHỊ LÀM NHƯ SAU
+1. Giải nén gói ZIP.
+2. Gửi Claude tệp CLAUDE.md để nắm bối cảnh và nguyên tắc đã chốt.
+3. Cung cấp mã nguồn trong thư mục dist (HTML, CSS, JavaScript, JSON và assets). Nếu môi trường Claude nhận và giải nén ZIP, có thể cung cấp cả gói. Nếu không, gửi các tệp liên quan đến phần chị muốn sửa, theo danh sách dưới đây.
+4. Nói rõ việc muốn làm, ví dụ: “Giữ nguyên thiết kế và phương án nội dung đã chốt. Trước tiên đọc CLAUDE.md, kiểm tra mã nguồn hiện có, rồi đề xuất hoặc thực hiện đúng phần tôi yêu cầu.”
+
+NẾU CHỈ TIẾP TỤC THẺ HỌC SINH & PHỤ HUYNH
+Cung cấp các tệp:
+- dist/hoc-sinh/index.html
+- dist/school-public.js
+- dist/school-public-data.json
+- dist/school-programs.json
+- dist/school-public.css, school-refined.css, school-programs.css, career-sample.css
+- dist/hoc-sinh/ho-so-mau/quan-ly-du-an-van-hanh/index.html
+- Các tệp giao diện chung: dist/base.css, extension.css, activities.css, journey.css, site-common.css, app.js, journey.js và thư mục assets.
+Danh sách này phục vụ phần học sinh; dùng toàn bộ dist khi chuyển cả website.
+
+XEM WEBSITE TRÊN MÁY TÍNH
+Không cần cài các gói phần mềm xây dựng website. Nếu đã có Python 3, mở terminal trong thư mục NHIN_NGHE_CLAUDE và chạy:
+python3 scripts/start_preview.py
+Trên Windows có thể dùng: python scripts/start_preview.py
+Sau đó mở http://127.0.0.1:8000 trong trình duyệt.
+Không mở riêng từng tệp HTML bằng cách nhấp đúp vì trang có chức năng tải dữ liệu và liên kết bắt đầu từ gốc website.
+
+LƯU Ý
+- Việc gửi sang Claude không tự chuyển hosting, tên miền, email hoặc dữ liệu trình duyệt của người dùng.
+- Bản xem trước trên ChatGPT vẫn giữ nguyên.
+- Chưa kết nối nhinnghe.vn; chưa mở đăng ký hoặc thanh toán.
+- Không có sách đầy đủ, bảng phân tích nội bộ đầy đủ, hồ sơ tư vấn cá nhân, mật khẩu hoặc khóa truy cập trong gói này.
+- Nếu sau này cần Claude đối chiếu sách/nội bộ, chị cung cấp riêng phần cần thiết và yêu cầu chỉ dùng biên tập, không đưa tài liệu gốc vào website công khai.
