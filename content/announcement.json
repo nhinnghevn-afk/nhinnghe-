@@ -1,0 +1,13 @@
+{
+  "_ghi_chu": "Thông báo sự kiện đầu trang + khung ở Trang chủ + đường dẫn ngắn /dang-ky/. Đổi nội dung rồi chạy: python3 scripts/set-announcement.py. Đặt enabled=false để gỡ.",
+  "enabled": true,
+  "dateShort": "CN 6/12 · 19:30",
+  "dateLong": "Chủ nhật 6/12/2026 · 19:30–21:00",
+  "label": "BUỔI CHIA SẺ MIỄN PHÍ · TRỰC TUYẾN",
+  "audience": "Học sinh lớp 12 và phụ huynh",
+  "barLead": "Buổi chia sẻ miễn phí cho gia đình lớp 12:",
+  "title": "Hiểu nghề để cân nhắc ngành học",
+  "detailPath": "/hoat-dong/chia-se-nghe-nghiep/lop-12-thang-12-2026/",
+  "registerUrl": "https://docs.google.com/forms/d/e/1FAIpQLScrAZ5EfVkTC8PvUz0m3MjvwGXw5xZFhnd1yHcVsa0Xmv78WA/viewform",
+  "note": "Google Meet · Tối đa 100 người · Quà tặng Bộ công cụ chọn ngành"
+}
