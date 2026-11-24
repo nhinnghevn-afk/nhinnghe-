@@ -123,7 +123,7 @@ home.write_text(t)
 
 # Keep the old shared link working without publishing a third sample event.
 old=DIST/'hoat-dong/hieu-nghe/index.html'
-old.write_text('<!doctype html><html lang="vi"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><meta name="robots" content="noindex,nofollow"><meta http-equiv="refresh" content="0;url=/hoat-dong/chia-se-nghe-nghiep/"><title>Chia sẻ &amp; Khám phá nghề | Nhìn Nghề</title></head><body><h1>Chia sẻ &amp; Khám phá nghề</h1><p>Nội dung hiện được quản lý tại trang chuỗi chia sẻ.</p><a href="/hoat-dong/chia-se-nghe-nghiep/">Đến trang chuỗi chia sẻ</a></body></html>')
+old.write_text('<!doctype html><html lang="vi"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><meta http-equiv="refresh" content="0;url=/hoat-dong/chia-se-nghe-nghiep/"><title>Chia sẻ &amp; Khám phá nghề | Nhìn Nghề</title></head><body><h1>Chia sẻ &amp; Khám phá nghề</h1><p>Nội dung hiện được quản lý tại trang chuỗi chia sẻ.</p><a href="/hoat-dong/chia-se-nghe-nghiep/">Đến trang chuỗi chia sẻ</a></body></html>')
 
 keys=['id','path','title','audience','proposedWindow','description','topics','intendedTakeaway','preparation','example','nextRead','seriesId','status','statusLabel','scheduleConfirmed','startsAt','endsAt','timezone','format','venue','speakers','fee','registration','publicationScope','resources','recap','lastEditorialDate']
 public={'edition':'activities-public-preview-v1','series':series,'events':[{k:e[k] for k in keys}for e in events]}
